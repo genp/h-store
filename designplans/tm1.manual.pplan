@@ -1,0 +1,97 @@
+{
+ "TABLE_ENTRIES": {
+  "database.ACCESS_INFO": {
+   "METHOD": "REPLICATION",
+   "ATTRIBUTE": null,
+   "PARENT": null,
+   "PARENT_ATTRIBUTE": null
+  },
+  "database.CALL_FORWARDING": {
+   "METHOD": "HASH",
+   "ATTRIBUTE": "CALL_FORWARDING.*MultiColumn*#S_ID#SF_TYPE",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiColumn",
+   "PARENT": null,
+   "PARENT_ATTRIBUTE": null
+  },
+  "database.SPECIAL_FACILITY": {
+   "METHOD": "HASH",
+   "ATTRIBUTE": "SPECIAL_FACILITY.*MultiColumn*#S_ID#SF_TYPE",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiColumn",
+   "PARENT": null,
+   "PARENT_ATTRIBUTE": null
+  },
+  "database.SUBSCRIBER": {
+   "METHOD": "HASH",
+   "ATTRIBUTE": "SUBSCRIBER.S_ID",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column",
+   "PARENT": null,
+   "PARENT_ATTRIBUTE": null
+  }
+ },
+ "PROC_ENTRIES": {
+  "database.DeleteCallForwarding": {
+   "METHOD": "HASH",
+   "ATTRIBUTE": "DeleteCallForwarding.0",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
+   "PARENT": null,
+   "PARENT_ATTRIBUTE": null,
+   "SINGLE_PARTITION": false
+  },
+  "database.GetAccessData": {
+   "METHOD": "HASH",
+   "ATTRIBUTE": "GetAccessData.0",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
+   "PARENT": null,
+   "PARENT_ATTRIBUTE": null,
+   "SINGLE_PARTITION": true
+  },
+  "database.GetNewDestination": {
+   "METHOD": "HASH",
+   "ATTRIBUTE": "GetNewDestination.*MultiProcParameter*#1#0",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiProcParameter",
+   "PARENT": null,
+   "PARENT_ATTRIBUTE": null,
+   "SINGLE_PARTITION": true
+  },
+  "database.GetSubscriberData": {
+   "METHOD": "HASH",
+   "ATTRIBUTE": "GetSubscriberData.0",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
+   "PARENT": null,
+   "PARENT_ATTRIBUTE": null,
+   "SINGLE_PARTITION": true
+  },
+  "database.InsertCallForwarding": {
+   "METHOD": "HASH",
+   "ATTRIBUTE": "InsertCallForwarding.0",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
+   "PARENT": null,
+   "PARENT_ATTRIBUTE": null,
+   "SINGLE_PARTITION": false
+  },
+  "database.InsertSubscriber": {
+   "METHOD": "HASH",
+   "ATTRIBUTE": "InsertSubscriber.0",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
+   "PARENT": null,
+   "PARENT_ATTRIBUTE": null,
+   "SINGLE_PARTITION": false
+  },
+  "database.UpdateLocation": {
+   "METHOD": "HASH",
+   "ATTRIBUTE": "UpdateLocation.1",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
+   "PARENT": null,
+   "PARENT_ATTRIBUTE": null,
+   "SINGLE_PARTITION": false
+  },
+  "database.UpdateSubscriberData": {
+   "METHOD": "HASH",
+   "ATTRIBUTE": "UpdateSubscriberData.*MultiProcParameter*#0#3",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiProcParameter",
+   "PARENT": null,
+   "PARENT_ATTRIBUTE": null,
+   "SINGLE_PARTITION": false
+  }
+ }
+}
