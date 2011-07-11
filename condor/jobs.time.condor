@@ -1,0 +1,23 @@
+## -----------------------------------
+## Jobs
+## -----------------------------------
+
+HSTORE_TEST_TYPE = TimeLimitTests
+HSTORE_LOG_PREFIX = $(HSTORE_WORKLOAD).$(HSTORE_LOCAL_TIME)x$(HSTORE_TOTAL_TIME)
+HSTORE_EXTRA_PARAMS = designer.hints.LIMIT_TOTAL_TIME=$(HSTORE_TOTAL_TIME) designer.hints.LIMIT_LOCAL_TIME=$(HSTORE_LOCAL_TIME) designer.hints.LOG_SOLUTIONS_COSTS=files/condor/output/$(HSTORE_BENCHMARK)/$(HSTORE_TEST_TYPE)/$(HSTORE_LOG_PREFIX).costs
+
+HSTORE_TOTAL_TIME = 14400
+
+## ----------------------------------- 
+## 5 Minute Local
+
+HSTORE_LOCAL_TIME = 300
+Queue
+HSTORE_LOCAL_TIME = 600
+Queue
+HSTORE_LOCAL_TIME = 1200
+Queue
+HSTORE_LOCAL_TIME = 2400
+Queue
+HSTORE_LOCAL_TIME = 4800
+Queue

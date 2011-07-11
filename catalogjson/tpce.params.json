@@ -1,0 +1,96 @@
+{
+    "TradeCleanup": [
+        [ "canceled_id", "updateTrade", 0 ],
+        [ "pending_id", null, null ],
+        [ "submitted_id", "selectTrade", 1 ],
+        [ "start_trade_id", "selectTrade", 0 ]
+    ],
+    "TradeOrder": [
+        [ "requested_price", "insertTrade", 7 ],
+        [ "acct_id", "getAccount1", 0 ],
+        [ "is_lifo", "insertTrade", 13 ],                                                                                                                                                                                           
+        [ "roll_it_back", null, null ],                                                                                                                                                                                           
+        [ "trade_qty", ["getCommissionRate", "insertTrade"], [4, 6] ],                                                                                                                                                                                           
+        [ "type_is_margin", "insertTrade", 4 ],                                                                                                                                                                                           
+        [ "co_name", "getCompany", 0 ],                                                                                                                                                                                           
+        [ "exec_f_name", ["getACL", "insertTrade"], [1, 9] ],                                                                                                                                                                                           
+        [ "exec_l_name", ["getACL", "insertTrade"], [2, 9] ],                                                                                                                                                                                           
+        [ "exec_tax_id", "getACL", 3 ],                                                                                                                                                                                           
+        [ "issue",  "getSecurity1", 1 ],                                                                                                                                                                                           
+        [ "st_pending_id", "insertTradeHistory", 2 ],                                                                                                                                                                                           
+        [ "st_submitted_id", "insertTradeHistory", 2 ],                                                                                                                                                                                           
+        [ "symbol", "getSecurity2", 0 ],
+        [ "trade_type_id", "getTradeType", 0 ]
+    ],
+    "TradeLookup": [
+        [ "trade_ids", "getTrade_frame1", 0, true ],
+        [ "acct_id", ["getTrade_frame2", "getTrade_frame4"], [0, 0] ],
+        [ "max_acct_id", null, null ],
+        [ "frame_to_execute", null, null ],
+        [ "max_trades", null, null ],
+        [ "end_trade_dts", "getTrade_frame2", 2 ],
+        [ "start_trade_dts", "getTrade_frame2", 2 ],
+        [ "symbol", "getTrade_frame3", 0 ]
+    ],
+    "TradeResult": [
+        [ "trade_id", "getTrade", 0 ],
+        [ "trade_price", ["insertHolding", "updateTrade2"], [4, 3] ],
+        [ "st_completed_id", "updateTrade2", 2 ]
+    ],
+    "TradeUpdate": [
+        [ "trade_ids", ["getTrade1", "getTradeTradeType", "getSettlement"], [0, 0, 0], true ],
+        [ "acct_id", "getTrade2", 0 ],
+        [ "max_acct_id", null, null ], 
+        [ "frame_to_execute", null, null ],
+        [ "max_trades", "getTrade2", 4 ],
+        [ "max_updates", null, null ],
+        [ "end_trade_dts", ["getTrade2", "getTradeTradeTypeSecurity"], [3, 3] ],
+        [ "start_trade_dts", ["getTrade2", "getTradeTradeTypeSecurity"], [2, 2] ],
+        [ "symbol", "getTradeTradeTypeSecurity", 0 ]
+    ],
+    "TradeStatus": [
+        [ "acct_id", "getTradeStatus", 0 ]
+    ],
+    "CustomerPosition": [
+        [ "acct_id_idx", null, null ],
+        [ "cust_id", "getCustomer", 0 ],
+        [ "get_history", null, null ],
+        [ "tax_id", "getCID", 0 ]
+    ],
+    "MarketFeed": [
+        [ "price_quotes", "updateLastTrade", 0, true ],
+        [ "status_submitted", "updateTrade", 1 ],
+        [ "symbols", "updateLastTrade", 3, true ],
+        [ "trade_qtys", "updateLastTrade", 1, true ],
+        [ "type_limit_buy", "getRequestList", 5 ],
+        [ "type_limit_sell", "getRequestList", 3 ],
+        [ "type_stop_loss", "getRequestList", 1 ]
+    ],
+    "MarketWatch": [
+        [ "acct_id", "getStockList3", 0 ],
+        [ "cust_id", "getStockList1", 0 ],
+        [ "ending_co_id", "getStockList2", 2 ],
+        [ "starting_co_id", "getStockList2", 1 ],
+        [ "industry_name", "getStockList2", 0 ]
+    ],
+    "SecurityDetail": [
+        [ "max_rows_to_return", null, null ],
+        [ "access_lob_flag", null, null ],
+        [ "start_day", "getInfo4", 1 ],
+        [ "symbol", "getInfo4", 0 ]
+    ],
+    "BrokerVolume": [
+        [ "broker_list", "get", 0, true ],
+        [ "sector_name", "get", 1 ]
+    ],
+    "DataMaintenance": [
+        [ "acct_id", "selectAccountPermission", 0 ],
+        [ "c_id", ["selectCustomerAddress", "selectCustomer", "selectCustomerTaxrate", "selectWatchListMax"], [0, 0, 0, 0] ],
+        [ "co_id", ["selectCompanyAddress", "selectCompany", "selectFinancial", "selectNewsXref"], [0, 0, 0, 0] ],
+        [ "day_of_month", "updateDailyMarket", 2 ],
+        [ "symbol", ["updateDailyMarket", "selectSecurity"], [ 1, 0 ]], 
+        [ "table_name", null, null ],
+        [ "tx_id", "selectTaxRate", 0 ],
+        [ "vol_incr", "updateDailyMarket", 0 ]
+    ]
+}

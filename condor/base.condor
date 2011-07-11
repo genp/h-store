@@ -1,0 +1,64 @@
+## -----------------------------------
+## SETUP
+## -----------------------------------
+
+# HSTORE_PARTITIONER
+# HSTORE_COSTMODEL
+# HSTORE_BENCHMARK
+# HSTORE_TEST_TYPE
+# HSTORE_LOG_PREFIX
+# HSTORE_WORKLOAD
+# HSTORE_HINTS
+
+HSTORE_PARTITIONER = LNSPartitioner
+HSTORE_COSTMODEL = TimeIntervalCostModel
+HSTORE_INTERVALS = 12
+HSTORE_SAMPLING  = false
+HSTORE_PROCINCLUDE = default
+HSTORE_XACTLIMIT = 5000
+HSTORE_PROCINCLUDE_MULTIPLIER = 50
+HSTORE_HINTS = $(HSTORE_BENCHMARK)
+HSTORE_BACK_TRACKS_MULTIPLIER = 1.0
+HSTORE_LOCAL_TIME_MULTIPLIER = 1.0
+HSTORE_CHECKPOINT = checkpoints/$(HSTORE_TEST_TYPE)/$(HSTORE_LOG_PREFIX).checkpoint
+
+Executable = /usr/bin/ant
+Remote_InitialDir = /home/pavlo/Documents/H-Store/SVN-Brown/trunk/
+Universe = vanilla
+Requirements = (TARGET.OpSys == "LINUX" && TARGET.Arch == "INTEL" && TARGET.FileSystemDomain != "XYZ") && \
+               (TARGET.Machine != "pedro.cs.brown.edu") && \
+               (TARGET.Memory >= 3000 && TARGET.KeyboardIdle >= (120 * 60))
+
+stream_output = True
+stream_error  = True
+when_to_transfer_output = ON_EXIT_OR_EVICT
+transfer_executable = No
+copy_to_spool = False
+notification = Error
+periodic_release = True
+on_exit_remove = (ExitBySignal == False) && (ExitCode == 0)
+
+HSTORE_JOB_DIR = files/condor/output/$(HSTORE_TEST_TYPE)/$(HSTORE_BENCHMARK)
+
+Log = $(HSTORE_JOB_DIR)/$(HSTORE_LOG_PREFIX).log
+Output = $(HSTORE_JOB_DIR)/$(HSTORE_LOG_PREFIX).out
+Error = $(HSTORE_JOB_DIR)/$(HSTORE_LOG_PREFIX).err
+
+Arguments = designer-benchmark \
+            -Dvolt.client.memory=1200 \
+            -Djar=$(HSTORE_BENCHMARK)-designer-benchmark.jar \
+            -Dtype=$(HSTORE_BENCHMARK) \
+            -Dstats=./files/workloads/$(HSTORE_BENCHMARK).stats.gz \
+            -Dworkload=./files/workloads/$(HSTORE_WORKLOAD).trace.gz \
+            -Dlimit=$(HSTORE_XACTLIMIT) \
+            -Dinclude=$(HSTORE_PROCINCLUDE) \
+            -Dsampling=$(HSTORE_SAMPLING) \
+            -Dmultiplier=$(HSTORE_PROCINCLUDE_MULTIPLIER) \
+            -Dpartitioner=edu.brown.designer.partitioners.$(HSTORE_PARTITIONER) \
+            -Dcostmodel=edu.brown.costmodel.$(HSTORE_COSTMODEL) \
+            -Dintervals=$(HSTORE_INTERVALS) \
+            -Dhints=files/hints/$(HSTORE_HINTS).hints \
+            -Dcheckpoint=$(HSTORE_CHECKPOINT) \
+            -Dcorrelations=files/correlations/$(HSTORE_BENCHMARK).correlations \
+            -Doutput=$(HSTORE_JOB_DIR)/$(HSTORE_LOG_PREFIX).pplan \
+            -Dextraparams=\"designer.hints.LOG_SOLUTIONS_COSTS=$(HSTORE_JOB_DIR)/$(HSTORE_LOG_PREFIX).costs designer.hints.LOCAL_TIME_MULTIPLIER=$(HSTORE_LOCAL_TIME_MULTIPLIER) designer.hints.BACK_TRACKS_MULTIPLIER=$(HSTORE_BACK_TRACKS_MULTIPLIER) designer.hints.ENABLE_COSTMODEL_IDLEPARTITION_PENALTY=false $(HSTORE_EXTRA_PARAMS)\"
