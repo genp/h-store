@@ -47,9 +47,81 @@
  {
   "STATEMENT": "UpdateLocation.update",
   "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "UpdateLocation.update.1",
+  "STATEMENT_COLUMN": "SUBSCRIBER.SUB_NBR",
+  "PROCEDURE_PARAMETER": "UpdateLocation.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "UpdateLocation.update",
+  "STATEMENT_INDEX": "0",
   "STATEMENT_PARAMETER": "UpdateLocation.update.0",
   "STATEMENT_COLUMN": "SUBSCRIBER.VLR_LOCATION",
   "PROCEDURE_PARAMETER": "UpdateLocation.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "InsertCallForwarding.update",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "InsertCallForwarding.update.4",
+  "STATEMENT_COLUMN": "CALL_FORWARDING.NUMBERX",
+  "PROCEDURE_PARAMETER": "InsertCallForwarding.4",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "InsertCallForwarding.update",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "InsertCallForwarding.update.4",
+  "STATEMENT_COLUMN": "CALL_FORWARDING.NUMBERX",
+  "PROCEDURE_PARAMETER": "InsertCallForwarding.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "InsertCallForwarding.update",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "InsertCallForwarding.update.3",
+  "STATEMENT_COLUMN": "CALL_FORWARDING.END_TIME",
+  "PROCEDURE_PARAMETER": "InsertCallForwarding.3",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "InsertCallForwarding.update",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "InsertCallForwarding.update.2",
+  "STATEMENT_COLUMN": "CALL_FORWARDING.START_TIME",
+  "PROCEDURE_PARAMETER": "InsertCallForwarding.2",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "InsertCallForwarding.update",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "InsertCallForwarding.update.1",
+  "STATEMENT_COLUMN": "CALL_FORWARDING.SF_TYPE",
+  "PROCEDURE_PARAMETER": "InsertCallForwarding.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "InsertCallForwarding.query1",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "InsertCallForwarding.query1.0",
+  "STATEMENT_COLUMN": "SUBSCRIBER.SUB_NBR",
+  "PROCEDURE_PARAMETER": "InsertCallForwarding.4",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "InsertCallForwarding.query1",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "InsertCallForwarding.query1.0",
+  "STATEMENT_COLUMN": "SUBSCRIBER.SUB_NBR",
+  "PROCEDURE_PARAMETER": "InsertCallForwarding.0",
   "PROCEDURE_PARAMETER_INDEX": "0",
   "COEFFICIENT": "1.0"
  },
@@ -158,6 +230,15 @@
   "STATEMENT_PARAMETER": "DeleteCallForwarding.update.1",
   "STATEMENT_COLUMN": "CALL_FORWARDING.SF_TYPE",
   "PROCEDURE_PARAMETER": "DeleteCallForwarding.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "DeleteCallForwarding.query",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "DeleteCallForwarding.query.0",
+  "STATEMENT_COLUMN": "SUBSCRIBER.SUB_NBR",
+  "PROCEDURE_PARAMETER": "DeleteCallForwarding.0",
   "PROCEDURE_PARAMETER_INDEX": "0",
   "COEFFICIENT": "1.0"
  }
