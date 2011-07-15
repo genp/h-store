@@ -1,4 +1,4 @@
-{"CORRELATIONS": [
+{"MAPPINGS": [
  {
   "STATEMENT": "UpdateItem.update_item",
   "STATEMENT_INDEX": "0",

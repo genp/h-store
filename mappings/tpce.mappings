@@ -1,4 +1,4 @@
-{"CORRELATIONS": [
+{"MAPPINGS": [
  {
   "STATEMENT": "TradeUpdate.updateTrade",
   "STATEMENT_INDEX": "19",

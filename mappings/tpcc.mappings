@@ -1,4 +1,4 @@
-{"CORRELATIONS": [
+{"MAPPINGS": [
  {
   "STATEMENT": "slev.GetStockCount",
   "STATEMENT_INDEX": "0",
