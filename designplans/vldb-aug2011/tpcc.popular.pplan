@@ -1,0 +1,117 @@
+{
+ "TABLE_ENTRIES": {
+  "{'database':'CUSTOMER'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'CUSTOMER':'C_W_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+  },
+  "{'database':'CUSTOMER_NAME'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "REPLICATION",
+   "ATTRIBUTE": null
+  },
+  "{'database':'DISTRICT'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'DISTRICT':'D_W_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+  },
+  "{'database':'HISTORY'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'HISTORY':'H_W_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+  },
+  "{'database':'ITEM'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'ITEM':'I_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+  },
+  "{'database':'NEW_ORDER'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'NEW_ORDER':'NO_W_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+  },
+  "{'database':'ORDERS'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'ORDERS':'O_W_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+  },
+  "{'database':'ORDER_LINE'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'ORDER_LINE':'OL_W_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+  },
+  "{'database':'STOCK'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'STOCK':'S_I_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+  },
+  "{'database':'WAREHOUSE'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'WAREHOUSE':'W_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+  }
+ },
+ "PROC_ENTRIES": {
+  "{'database':'delivery'}": {
+   "SINGLE_PARTITION": true,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'delivery':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'neworder'}": {
+   "SINGLE_PARTITION": false,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'neworder':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'ostatByCustomerId'}": {
+   "SINGLE_PARTITION": true,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'ostatByCustomerId':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'ostatByCustomerName'}": {
+   "SINGLE_PARTITION": true,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'ostatByCustomerName':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'paymentByCustomerId'}": {
+   "SINGLE_PARTITION": true,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'paymentByCustomerId':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'paymentByCustomerName'}": {
+   "SINGLE_PARTITION": true,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'paymentByCustomerName':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'slev'}": {
+   "SINGLE_PARTITION": false,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'slev':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  }
+ }
+}
