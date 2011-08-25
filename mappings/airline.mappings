@@ -210,7 +210,7 @@
   "STATEMENT": "{'UpdateReservation':'CheckCustomer'}",
   "STATEMENT_INDEX": 0,
   "STATEMENT_PARAMETER": "{'UpdateReservation.CheckCustomer':'0'}",
-  "STATEMENT_COLUMN": "{'RESERVATION':'R_ID'}",
+  "STATEMENT_COLUMN": "{'RESERVATION':'R_F_ID'}",
   "PROCEDURE_PARAMETER": "{'UpdateReservation':'2'}",
   "PROCEDURE_PARAMETER_INDEX": 0,
   "COEFFICIENT": 1.0
@@ -252,15 +252,6 @@
   "COEFFICIENT": 1.0
  },
  {
-  "STATEMENT": "{'UpdateCustomer':'GetCustomerId'}",
-  "STATEMENT_INDEX": 0,
-  "STATEMENT_PARAMETER": "{'UpdateCustomer.GetCustomerId':'0'}",
-  "STATEMENT_COLUMN": "{'CUSTOMER':'C_ID'}",
-  "PROCEDURE_PARAMETER": "{'UpdateCustomer':'0'}",
-  "PROCEDURE_PARAMETER_INDEX": 0,
-  "COEFFICIENT": 1.0
- },
- {
   "STATEMENT": "{'UpdateCustomer':'GetCustomerIdStr'}",
   "STATEMENT_INDEX": 0,
   "STATEMENT_PARAMETER": "{'UpdateCustomer.GetCustomerIdStr':'0'}",
@@ -283,7 +274,7 @@
   "STATEMENT_INDEX": 0,
   "STATEMENT_PARAMETER": "{'NewReservation.UpdateFrequentFlyer':'3'}",
   "STATEMENT_COLUMN": "{'FREQUENT_FLYER':'FF_IATTR14'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
   "PROCEDURE_PARAMETER_INDEX": 7,
   "COEFFICIENT": 1.0
  },
@@ -292,7 +283,7 @@
   "STATEMENT_INDEX": 0,
   "STATEMENT_PARAMETER": "{'NewReservation.UpdateFrequentFlyer':'2'}",
   "STATEMENT_COLUMN": "{'FREQUENT_FLYER':'FF_IATTR13'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
   "PROCEDURE_PARAMETER_INDEX": 6,
   "COEFFICIENT": 1.0
  },
@@ -301,7 +292,7 @@
   "STATEMENT_INDEX": 0,
   "STATEMENT_PARAMETER": "{'NewReservation.UpdateFrequentFlyer':'1'}",
   "STATEMENT_COLUMN": "{'FREQUENT_FLYER':'FF_IATTR12'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
   "PROCEDURE_PARAMETER_INDEX": 5,
   "COEFFICIENT": 1.0
  },
@@ -310,7 +301,7 @@
   "STATEMENT_INDEX": 0,
   "STATEMENT_PARAMETER": "{'NewReservation.UpdateFrequentFlyer':'0'}",
   "STATEMENT_COLUMN": "{'FREQUENT_FLYER':'FF_IATTR11'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
   "PROCEDURE_PARAMETER_INDEX": 4,
   "COEFFICIENT": 1.0
  },
@@ -337,7 +328,7 @@
   "STATEMENT_INDEX": 0,
   "STATEMENT_PARAMETER": "{'NewReservation.UpdateCustomer':'3'}",
   "STATEMENT_COLUMN": "{'CUSTOMER':'C_IATTR15'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
   "PROCEDURE_PARAMETER_INDEX": 3,
   "COEFFICIENT": 1.0
  },
@@ -346,7 +337,7 @@
   "STATEMENT_INDEX": 0,
   "STATEMENT_PARAMETER": "{'NewReservation.UpdateCustomer':'2'}",
   "STATEMENT_COLUMN": "{'CUSTOMER':'C_IATTR14'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
   "PROCEDURE_PARAMETER_INDEX": 2,
   "COEFFICIENT": 1.0
  },
@@ -355,7 +346,7 @@
   "STATEMENT_INDEX": 0,
   "STATEMENT_PARAMETER": "{'NewReservation.UpdateCustomer':'1'}",
   "STATEMENT_COLUMN": "{'CUSTOMER':'C_IATTR13'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
   "PROCEDURE_PARAMETER_INDEX": 1,
   "COEFFICIENT": 1.0
  },
@@ -364,7 +355,7 @@
   "STATEMENT_INDEX": 0,
   "STATEMENT_PARAMETER": "{'NewReservation.UpdateCustomer':'0'}",
   "STATEMENT_COLUMN": "{'CUSTOMER':'C_IATTR12'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
   "PROCEDURE_PARAMETER_INDEX": 0,
   "COEFFICIENT": 1.0
  },
@@ -372,52 +363,52 @@
   "STATEMENT": "{'NewReservation':'InsertReservation'}",
   "STATEMENT_INDEX": 0,
   "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'9'}",
-  "STATEMENT_COLUMN": "{'RESERVATION':'R_IATTR05'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
-  "PROCEDURE_PARAMETER_INDEX": 5,
-  "COEFFICIENT": 1.0
- },
- {
-  "STATEMENT": "{'NewReservation':'InsertReservation'}",
-  "STATEMENT_INDEX": 0,
-  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'8'}",
   "STATEMENT_COLUMN": "{'RESERVATION':'R_IATTR04'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
   "PROCEDURE_PARAMETER_INDEX": 4,
   "COEFFICIENT": 1.0
  },
  {
   "STATEMENT": "{'NewReservation':'InsertReservation'}",
   "STATEMENT_INDEX": 0,
-  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'7'}",
+  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'8'}",
   "STATEMENT_COLUMN": "{'RESERVATION':'R_IATTR03'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
   "PROCEDURE_PARAMETER_INDEX": 3,
   "COEFFICIENT": 1.0
  },
  {
   "STATEMENT": "{'NewReservation':'InsertReservation'}",
   "STATEMENT_INDEX": 0,
-  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'6'}",
+  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'7'}",
   "STATEMENT_COLUMN": "{'RESERVATION':'R_IATTR02'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
   "PROCEDURE_PARAMETER_INDEX": 2,
   "COEFFICIENT": 1.0
  },
  {
   "STATEMENT": "{'NewReservation':'InsertReservation'}",
   "STATEMENT_INDEX": 0,
-  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'5'}",
+  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'6'}",
   "STATEMENT_COLUMN": "{'RESERVATION':'R_IATTR01'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
   "PROCEDURE_PARAMETER_INDEX": 1,
   "COEFFICIENT": 1.0
  },
  {
   "STATEMENT": "{'NewReservation':'InsertReservation'}",
   "STATEMENT_INDEX": 0,
-  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'4'}",
+  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'5'}",
   "STATEMENT_COLUMN": "{'RESERVATION':'R_IATTR00'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
+  "PROCEDURE_PARAMETER_INDEX": 0,
+  "COEFFICIENT": 1.0
+ },
+ {
+  "STATEMENT": "{'NewReservation':'InsertReservation'}",
+  "STATEMENT_INDEX": 0,
+  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'4'}",
+  "STATEMENT_COLUMN": "{'RESERVATION':'R_PRICE'}",
   "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
   "PROCEDURE_PARAMETER_INDEX": 0,
   "COEFFICIENT": 1.0
@@ -452,28 +443,37 @@
  {
   "STATEMENT": "{'NewReservation':'InsertReservation'}",
   "STATEMENT_INDEX": 0,
-  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'12'}",
+  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'13'}",
   "STATEMENT_COLUMN": "{'RESERVATION':'R_IATTR08'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
   "PROCEDURE_PARAMETER_INDEX": 8,
   "COEFFICIENT": 1.0
  },
  {
   "STATEMENT": "{'NewReservation':'InsertReservation'}",
   "STATEMENT_INDEX": 0,
-  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'11'}",
+  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'12'}",
   "STATEMENT_COLUMN": "{'RESERVATION':'R_IATTR07'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
   "PROCEDURE_PARAMETER_INDEX": 7,
   "COEFFICIENT": 1.0
  },
  {
   "STATEMENT": "{'NewReservation':'InsertReservation'}",
   "STATEMENT_INDEX": 0,
-  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'10'}",
+  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'11'}",
   "STATEMENT_COLUMN": "{'RESERVATION':'R_IATTR06'}",
-  "PROCEDURE_PARAMETER": "{'NewReservation':'4'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
   "PROCEDURE_PARAMETER_INDEX": 6,
+  "COEFFICIENT": 1.0
+ },
+ {
+  "STATEMENT": "{'NewReservation':'InsertReservation'}",
+  "STATEMENT_INDEX": 0,
+  "STATEMENT_PARAMETER": "{'NewReservation.InsertReservation':'10'}",
+  "STATEMENT_COLUMN": "{'RESERVATION':'R_IATTR05'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'5'}",
+  "PROCEDURE_PARAMETER_INDEX": 5,
   "COEFFICIENT": 1.0
  },
  {
@@ -495,10 +495,64 @@
   "COEFFICIENT": 1.0
  },
  {
+  "STATEMENT": "{'NewReservation':'GetCustomer'}",
+  "STATEMENT_INDEX": 0,
+  "STATEMENT_PARAMETER": "{'NewReservation.GetCustomer':'0'}",
+  "STATEMENT_COLUMN": "{'CUSTOMER':'C_ID'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'1'}",
+  "PROCEDURE_PARAMETER_INDEX": 0,
+  "COEFFICIENT": 1.0
+ },
+ {
+  "STATEMENT": "{'NewReservation':'CheckSeat'}",
+  "STATEMENT_INDEX": 0,
+  "STATEMENT_PARAMETER": "{'NewReservation.CheckSeat':'1'}",
+  "STATEMENT_COLUMN": "{'RESERVATION':'R_SEAT'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'3'}",
+  "PROCEDURE_PARAMETER_INDEX": 0,
+  "COEFFICIENT": 1.0
+ },
+ {
+  "STATEMENT": "{'NewReservation':'CheckSeat'}",
+  "STATEMENT_INDEX": 0,
+  "STATEMENT_PARAMETER": "{'NewReservation.CheckSeat':'0'}",
+  "STATEMENT_COLUMN": "{'RESERVATION':'R_F_ID'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'2'}",
+  "PROCEDURE_PARAMETER_INDEX": 0,
+  "COEFFICIENT": 1.0
+ },
+ {
+  "STATEMENT": "{'NewReservation':'CheckCustomer'}",
+  "STATEMENT_INDEX": 0,
+  "STATEMENT_PARAMETER": "{'NewReservation.CheckCustomer':'1'}",
+  "STATEMENT_COLUMN": "{'RESERVATION':'R_C_ID'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'1'}",
+  "PROCEDURE_PARAMETER_INDEX": 0,
+  "COEFFICIENT": 1.0
+ },
+ {
+  "STATEMENT": "{'NewReservation':'CheckCustomer'}",
+  "STATEMENT_INDEX": 0,
+  "STATEMENT_PARAMETER": "{'NewReservation.CheckCustomer':'0'}",
+  "STATEMENT_COLUMN": "{'RESERVATION':'R_F_ID'}",
+  "PROCEDURE_PARAMETER": "{'NewReservation':'2'}",
+  "PROCEDURE_PARAMETER_INDEX": 0,
+  "COEFFICIENT": 1.0
+ },
+ {
   "STATEMENT": "{'FindOpenSeats':'GetSeats'}",
   "STATEMENT_INDEX": 0,
   "STATEMENT_PARAMETER": "{'FindOpenSeats.GetSeats':'0'}",
   "STATEMENT_COLUMN": "{'RESERVATION':'R_F_ID'}",
+  "PROCEDURE_PARAMETER": "{'FindOpenSeats':'0'}",
+  "PROCEDURE_PARAMETER_INDEX": 0,
+  "COEFFICIENT": 1.0
+ },
+ {
+  "STATEMENT": "{'FindOpenSeats':'GetFlight'}",
+  "STATEMENT_INDEX": 0,
+  "STATEMENT_PARAMETER": "{'FindOpenSeats.GetFlight':'0'}",
+  "STATEMENT_COLUMN": "{'FLIGHT':'F_ID'}",
   "PROCEDURE_PARAMETER": "{'FindOpenSeats':'0'}",
   "PROCEDURE_PARAMETER_INDEX": 0,
   "COEFFICIENT": 1.0
@@ -544,60 +598,6 @@
   "STATEMENT_INDEX": 0,
   "STATEMENT_PARAMETER": "{'FindFlights.GetFlights1':'0'}",
   "STATEMENT_COLUMN": "{'FLIGHT':'F_DEPART_AP_ID'}",
-  "PROCEDURE_PARAMETER": "{'FindFlights':'0'}",
-  "PROCEDURE_PARAMETER_INDEX": 0,
-  "COEFFICIENT": 1.0
- },
- {
-  "STATEMENT": "{'FindFlights':'GetAirportInfo'}",
-  "STATEMENT_INDEX": 21,
-  "STATEMENT_PARAMETER": "{'FindFlights.GetAirportInfo':'0'}",
-  "STATEMENT_COLUMN": "{'AIRPORT':'AP_ID'}",
-  "PROCEDURE_PARAMETER": "{'FindFlights':'1'}",
-  "PROCEDURE_PARAMETER_INDEX": 0,
-  "COEFFICIENT": 1.0
- },
- {
-  "STATEMENT": "{'FindFlights':'GetAirportInfo'}",
-  "STATEMENT_INDEX": 20,
-  "STATEMENT_PARAMETER": "{'FindFlights.GetAirportInfo':'0'}",
-  "STATEMENT_COLUMN": "{'AIRPORT':'AP_ID'}",
-  "PROCEDURE_PARAMETER": "{'FindFlights':'0'}",
-  "PROCEDURE_PARAMETER_INDEX": 0,
-  "COEFFICIENT": 1.0
- },
- {
-  "STATEMENT": "{'FindFlights':'GetAirportInfo'}",
-  "STATEMENT_INDEX": 19,
-  "STATEMENT_PARAMETER": "{'FindFlights.GetAirportInfo':'0'}",
-  "STATEMENT_COLUMN": "{'AIRPORT':'AP_ID'}",
-  "PROCEDURE_PARAMETER": "{'FindFlights':'1'}",
-  "PROCEDURE_PARAMETER_INDEX": 0,
-  "COEFFICIENT": 1.0
- },
- {
-  "STATEMENT": "{'FindFlights':'GetAirportInfo'}",
-  "STATEMENT_INDEX": 18,
-  "STATEMENT_PARAMETER": "{'FindFlights.GetAirportInfo':'0'}",
-  "STATEMENT_COLUMN": "{'AIRPORT':'AP_ID'}",
-  "PROCEDURE_PARAMETER": "{'FindFlights':'0'}",
-  "PROCEDURE_PARAMETER_INDEX": 0,
-  "COEFFICIENT": 1.0
- },
- {
-  "STATEMENT": "{'FindFlights':'GetAirportInfo'}",
-  "STATEMENT_INDEX": 17,
-  "STATEMENT_PARAMETER": "{'FindFlights.GetAirportInfo':'0'}",
-  "STATEMENT_COLUMN": "{'AIRPORT':'AP_ID'}",
-  "PROCEDURE_PARAMETER": "{'FindFlights':'1'}",
-  "PROCEDURE_PARAMETER_INDEX": 0,
-  "COEFFICIENT": 1.0
- },
- {
-  "STATEMENT": "{'FindFlights':'GetAirportInfo'}",
-  "STATEMENT_INDEX": 16,
-  "STATEMENT_PARAMETER": "{'FindFlights.GetAirportInfo':'0'}",
-  "STATEMENT_COLUMN": "{'AIRPORT':'AP_ID'}",
   "PROCEDURE_PARAMETER": "{'FindFlights':'0'}",
   "PROCEDURE_PARAMETER_INDEX": 0,
   "COEFFICIENT": 1.0
@@ -756,11 +756,11 @@
   "COEFFICIENT": 1.0
  },
  {
-  "STATEMENT": "{'DeleteReservation':'GetCustomerById'}",
+  "STATEMENT": "{'DeleteReservation':'GetCustomerReservation'}",
   "STATEMENT_INDEX": 0,
-  "STATEMENT_PARAMETER": "{'DeleteReservation.GetCustomerById':'0'}",
-  "STATEMENT_COLUMN": "{'CUSTOMER':'C_ID'}",
-  "PROCEDURE_PARAMETER": "{'DeleteReservation':'1'}",
+  "STATEMENT_PARAMETER": "{'DeleteReservation.GetCustomerReservation':'1'}",
+  "STATEMENT_COLUMN": "{'FLIGHT':'F_ID'}",
+  "PROCEDURE_PARAMETER": "{'DeleteReservation':'0'}",
   "PROCEDURE_PARAMETER_INDEX": 0,
   "COEFFICIENT": 1.0
  },
@@ -794,7 +794,7 @@
  {
   "STATEMENT": "{'DeleteReservation':'DeleteReservation'}",
   "STATEMENT_INDEX": 0,
-  "STATEMENT_PARAMETER": "{'DeleteReservation.DeleteReservation':'1'}",
+  "STATEMENT_PARAMETER": "{'DeleteReservation.DeleteReservation':'2'}",
   "STATEMENT_COLUMN": "{'RESERVATION':'R_F_ID'}",
   "PROCEDURE_PARAMETER": "{'DeleteReservation':'0'}",
   "PROCEDURE_PARAMETER_INDEX": 0,
