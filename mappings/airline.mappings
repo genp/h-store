@@ -604,24 +604,6 @@
  },
  {
   "STATEMENT": "{'FindFlights':'GetAirportInfo'}",
-  "STATEMENT_INDEX": 15,
-  "STATEMENT_PARAMETER": "{'FindFlights.GetAirportInfo':'0'}",
-  "STATEMENT_COLUMN": "{'AIRPORT':'AP_ID'}",
-  "PROCEDURE_PARAMETER": "{'FindFlights':'1'}",
-  "PROCEDURE_PARAMETER_INDEX": 0,
-  "COEFFICIENT": 1.0
- },
- {
-  "STATEMENT": "{'FindFlights':'GetAirportInfo'}",
-  "STATEMENT_INDEX": 14,
-  "STATEMENT_PARAMETER": "{'FindFlights.GetAirportInfo':'0'}",
-  "STATEMENT_COLUMN": "{'AIRPORT':'AP_ID'}",
-  "PROCEDURE_PARAMETER": "{'FindFlights':'0'}",
-  "PROCEDURE_PARAMETER_INDEX": 0,
-  "COEFFICIENT": 1.0
- },
- {
-  "STATEMENT": "{'FindFlights':'GetAirportInfo'}",
   "STATEMENT_INDEX": 13,
   "STATEMENT_PARAMETER": "{'FindFlights.GetAirportInfo':'0'}",
   "STATEMENT_COLUMN": "{'AIRPORT':'AP_ID'}",
