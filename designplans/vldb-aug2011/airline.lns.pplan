@@ -28,14 +28,14 @@
    "PARENT_ATTRIBUTE": null,
    "PARENT": null,
    "METHOD": "HASH",
-   "ATTRIBUTE": "{'CUSTOMER':'C_ID'}",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+   "ATTRIBUTE": "{'CUSTOMER#*VerticalPartitionColumn*':[{'CUSTOMER':'C_ID'},{'CUSTOMER#*MultiColumn*':[{'CUSTOMER':'C_ID'},{'CUSTOMER':'C_ID_STR'}]}]}",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.VerticalPartitionColumn"
   },
   "{'database':'FLIGHT'}": {
    "PARENT_ATTRIBUTE": null,
    "PARENT": null,
    "METHOD": "HASH",
-   "ATTRIBUTE": "{'FLIGHT':'F_DEPART_TIME'}",
+   "ATTRIBUTE": "{'FLIGHT':'F_ID'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'FREQUENT_FLYER'}": {
@@ -63,11 +63,11 @@
   "{'database':'FindFlights'}": {
    "SINGLE_PARTITION": false,
    "METHOD": "HASH",
-   "ATTRIBUTE": "{'FindFlights':'2'}",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+   "ATTRIBUTE": "{'FindFlights#*MultiProcParameter*':[{'FindFlights':'0'},{'FindFlights':'1'}]}",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiProcParameter"
   },
   "{'database':'FindOpenSeats'}": {
-   "SINGLE_PARTITION": false,
+   "SINGLE_PARTITION": true,
    "METHOD": "HASH",
    "ATTRIBUTE": "{'FindOpenSeats':'0'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
@@ -85,7 +85,7 @@
    "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
   },
   "{'database':'UpdateReservation'}": {
-   "SINGLE_PARTITION": false,
+   "SINGLE_PARTITION": true,
    "METHOD": "HASH",
    "ATTRIBUTE": "{'UpdateReservation':'2'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
