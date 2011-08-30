@@ -29,14 +29,14 @@
    "PARENT_ATTRIBUTE": "{'ITEM':'I_U_ID'}",
    "PARENT": "{'database':'ITEM'}",
    "METHOD": "MAP",
-   "ATTRIBUTE": "{'ITEM_ATTRIBUTE':'IA_I_U_ID'}",
+   "ATTRIBUTE": "{'ITEM_ATTRIBUTE':'IA_U_ID'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'ITEM_BID'}": {
    "PARENT_ATTRIBUTE": "{'ITEM':'I_U_ID'}",
    "PARENT": "{'database':'ITEM'}",
    "METHOD": "MAP",
-   "ATTRIBUTE": "{'ITEM_BID':'IB_I_U_ID'}",
+   "ATTRIBUTE": "{'ITEM_BID':'IB_U_ID'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'ITEM_COMMENT'}": {
@@ -50,7 +50,7 @@
    "PARENT_ATTRIBUTE": "{'ITEM':'I_U_ID'}",
    "PARENT": "{'database':'ITEM'}",
    "METHOD": "MAP",
-   "ATTRIBUTE": "{'ITEM_IMAGE':'II_I_U_ID'}",
+   "ATTRIBUTE": "{'ITEM_IMAGE':'II_U_ID'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'ITEM_MAX_BID'}": {
@@ -61,10 +61,10 @@
    "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'ITEM_PURCHASE'}": {
-   "PARENT_ATTRIBUTE": "{'ITEM':'I_U_ID'}",
-   "PARENT": "{'database':'ITEM'}",
+   "PARENT_ATTRIBUTE": "{'ITEM_BID':'IB_U_ID'}",
+   "PARENT": "{'database':'ITEM_BID'}",
    "METHOD": "HASH",
-   "ATTRIBUTE": "{'ITEM_PURCHASE':'IP_I_U_ID'}",
+   "ATTRIBUTE": "{'ITEM_PURCHASE':'IP_IB_U_ID'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'REGION'}": {
@@ -105,7 +105,8 @@
    "PARENT_ATTRIBUTE": "{'USER':'U_ID'}",
    "PARENT": "{'database':'USER'}",
    "METHOD": "MAP",
-   "ATTRIBUTE": "{'USER_WATCH':'UW_U_ID'}"
+   "ATTRIBUTE": "{'USER_WATCH':'UW_U_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   }
  },
  "PROC_ENTRIES": {

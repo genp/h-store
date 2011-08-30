@@ -42,15 +42,15 @@
    "PARENT_ATTRIBUTE": null,
    "PARENT": null,
    "METHOD": "HASH",
-   "ATTRIBUTE": "{'FREQUENT_FLYER':'FF_C_ID'}",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+   "ATTRIBUTE": "{'FREQUENT_FLYER#*MultiColumn*':[{'FREQUENT_FLYER':'FF_C_ID'},{'FREQUENT_FLYER':'FF_AL_ID'}]}",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiColumn"
   },
   "{'database':'RESERVATION'}": {
    "PARENT_ATTRIBUTE": null,
    "PARENT": null,
    "METHOD": "HASH",
-   "ATTRIBUTE": "{'RESERVATION':'R_ID'}",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+   "ATTRIBUTE": "{'RESERVATION#*MultiColumn*':[{'RESERVATION':'R_ID'},{'RESERVATION':'R_C_ID'},{'RESERVATION':'R_F_ID'}]}",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiColumn"
   }
  },
  "PROC_ENTRIES": {
@@ -75,7 +75,7 @@
   "{'database':'NewReservation'}": {
    "SINGLE_PARTITION": null,
    "METHOD": "HASH",
-   "ATTRIBUTE": "{'NewReservation':'0'}",
+   "ATTRIBUTE": "{'NewReservation':'1'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
   },
   "{'database':'UpdateCustomer'}": {
