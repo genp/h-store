@@ -53,9 +53,8 @@
   "{'database':'CUSTOMER'}": {
    "PARENT_ATTRIBUTE": null,
    "PARENT": null,
-   "METHOD": "HASH",
-   "ATTRIBUTE": "{'CUSTOMER':'C_ID'}",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+   "METHOD": "REPLICATION",
+   "ATTRIBUTE": null
   },
   "{'database':'CUSTOMER_ACCOUNT'}": {
    "PARENT_ATTRIBUTE": null,
@@ -167,10 +166,10 @@
    "ATTRIBUTE": null
   },
   "{'database':'TRADE'}": {
-   "PARENT_ATTRIBUTE": "{'CUSTOMER_ACCOUNT':'CA_ID'}",
-   "PARENT": "{'database':'CUSTOMER_ACCOUNT'}",
-   "METHOD": "MAP",
-   "ATTRIBUTE": "{'TRADE':'T_CA_ID'}",
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'TRADE':'T_ID'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'TRADE_HISTORY'}": {
@@ -199,11 +198,10 @@
    "ATTRIBUTE": null
   },
   "{'database':'WATCH_LIST'}": {
-   "PARENT_ATTRIBUTE": "{'CUSTOMER':'C_ID'}",
-   "PARENT": "{'database':'CUSTOMER'}",
-   "METHOD": "MAP",
-   "ATTRIBUTE": "{'WATCH_LIST':'WL_C_ID'}",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "REPLICATION",
+   "ATTRIBUTE": null
   },
   "{'database':'ZIP_CODE'}": {
    "PARENT_ATTRIBUTE": null,
