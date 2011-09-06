@@ -49,7 +49,7 @@ Error = $(HSTORE_JOB_DIR)/$(HSTORE_LOG_PREFIX).err
 
 Arguments = designer-benchmark \
             -Dvolt.client.memory=$(HSTORE_MEMORY) \
-            -Dhosts=localhost:0:$(HSTORE_PARTITIONS) \
+            -Dhosts=localhost:0:0-$(HSTORE_PARTITIONS) \
             -Dproject=$(HSTORE_BENCHMARK) \
             -Dstats=files/stats/$(HSTORE_BENCHMARK).stats.gz \
             -Dworkload=files/workloads/$(HSTORE_WORKLOAD).trace.gz \
