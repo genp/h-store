@@ -2,7 +2,7 @@
 ## Jobs
 ## -----------------------------------
 
-HSTORE_TEST_TYPE = LNS
+HSTORE_TEST_TYPE = Scaling
 HSTORE_LOG_PREFIX = $(HSTORE_WORKLOAD).$(HSTORE_PARTITIONS)p
 HSTORE_EXTRA_PARAMS = designer.hints.LIMIT_TOTAL_TIME=$(HSTORE_TOTAL_TIME) designer.hints.LIMIT_LOCAL_TIME=$(HSTORE_LOCAL_TIME) designer.hints.TARGET_PLAN_PATH=files/designplans/vldb-aug2011/$(HSTORE_BENCHMARK).lns.pplan designer.hints.LIMIT_BACK_TRACKS=$(HSTORE_LIMIT_BACK_TRACKS)
 HSTORE_PARTITIONER = LNSPartitioner
