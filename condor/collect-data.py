@@ -1,46 +1,99 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 import os
 import sys
+import math
 import string
 
-LOWER_BOUNDS = float(sys.argv[1])
+TYPE = sys.argv[1].lower()
+LOWER_BOUNDS = float(sys.argv[2])
+
 BENCHMARK = "tpce"
 TOTAL_TIME = 7200
 
-for factor in range(300, 3000, 300):
-    f = "%s-1.%dx%d.costs" % (BENCHMARK, factor, TOTAL_TIME)
-    if not os.path.exists(f):
-        print "Missing '%s'" % f
-        continue
+if TYPE == "backtracks":
+    FACTORS = range(25, 525, 25)
+    FACTOR_DIV = 1
+    DATA_DIR = "BackTracks"
+    DATA_EXT = ""
+    BENCHMARKS = [ 'tpce' ]
+elif TYPE == "localtime":
+    FACTORS = range(300, 3000, 300)
+    FACTOR_DIV = 60
+    DATA_DIR = "LocalTime"
+    DATA_EXT = "x%d" % TOTAL_TIME
+    BENCHMARKS = [ 'tpce' ]
+elif TYPE == "lowerbounds":
+    FACTORS = range(0, 1)
+    FACTOR_DIV = 6000
+    DATA_DIR = "LowerBounds"
+    DATA_EXT = "600x%d" % TOTAL_TIME
+    BENCHMARKS = [ 'airline', 'auctionmark', 'tpce' ]
+    
+else:
+    assert False
 
-    best_cost = None
-    first_time = None
-    first_cost = None
-    with open(f, 'r') as f:
-        ## Go backwards until the cost goes up
-        for line in map(string.strip, reversed(f.readlines())):
-            if line.startswith("--"): continue
-            #print line
-            data = line.split("\t")
-            assert len(data) == 2
-            time = int(data[0])
-            cost = float(data[1])
-            if first_time == None:
-                best_cost = first_cost = cost
-            elif first_time < time:
-                break
-            else:
-                first_cost = cost
-            first_time = time
-        ## FOR
-    ## WITH
-    assert first_cost
-    assert best_cost
+for benchmark in BENCHMARKS:
+    costs = [ ]
+    upper_bound = -1
     
-    #print "first_cost:", first_cost
-    #print "best_costs:", best_cost
+    for factor in FACTORS:
+        factor_str = "" if TYPE == "lowerbounds" else str(factor)
+        f = "output/%s/%s/%s-1.%s%s.costs" % (DATA_DIR, benchmark, benchmark, factor_str, DATA_EXT)
+        if not os.path.exists(f):
+            print "Missing '%s'" % f
+            continue
+
+        best_cost = None
+        first_time = None
+        first_cost = None
+        inner_costs = [ ]
+        with open(f, 'r') as f:
+            ## Go backwards until the cost goes up
+            for line in map(string.strip, reversed(f.readlines())):
+                if line.startswith("--"): continue
+                #print line
+                data = line.split("\t")
+                assert len(data) == 2
+                time = int(data[0])
+                cost = float(data[1])
+                if first_time == None:
+                    best_cost = first_cost = cost
+                elif first_time < time:
+                    break
+                else:
+                    first_cost = cost
+                first_time = time
+                inner_costs.append((time, cost))
+            ## FOR
+        ## WITH
+        assert first_cost
+        assert best_cost
+        upper_bound = max(upper_bound, first_cost)
+        
+        #print "first_cost:", first_cost
+        #print "best_costs:", best_cost
+        
+        if TYPE == "lowerbounds":
+            inner_costs.reverse()
+            last_time, last_cost = inner_costs[-1]
+            last_time /= FACTOR_DIV
+            inner_costs.append((math.ceil(last_time / 60.0) * FACTOR_DIV * 60, last_cost))
+            for time, cost in inner_costs:
+                normalized = 1.0 - ((cost - LOWER_BOUNDS) / (first_cost - LOWER_BOUNDS))
+                costs.append( (time/FACTOR_DIV, normalized, cost, best_cost) )
+            ## FOR
+        else:
+            normalized = 1.0 - ((best_cost - LOWER_BOUNDS) / (first_cost - LOWER_BOUNDS))
+            costs.append( (factor/FACTOR_DIV, normalized, first_cost, best_cost) )
+    ## FOR
     
-    normalized = 1.0 - ((best_cost - LOWER_BOUNDS) / (first_cost - LOWER_BOUNDS))
-    print "%d\t%f\t%f" % (factor/60, normalized, first_cost)
+    if len(BENCHMARKS) > 1: print benchmark
+    for factor, normalized, first_cost, best_cost in costs:
+        print "%d\t%f\t%f\t%f" % (factor, normalized, first_cost, best_cost)
+    print
 ## FOR
+
+
+    
