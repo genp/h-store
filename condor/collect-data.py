@@ -13,7 +13,7 @@ BENCHMARK = "tpce"
 TOTAL_TIME = 7200
 
 if TYPE == "backtracks":
-    FACTORS = range(25, 525, 25)
+    FACTORS = range(50, 1050, 50)
     FACTOR_DIV = 1
     DATA_DIR = "BackTracks"
     DATA_EXT = ""
@@ -36,7 +36,7 @@ else:
 
 for benchmark in BENCHMARKS:
     costs = [ ]
-    upper_bound = -1
+    upper_bound = float(sys.argv[3]) if len(sys.argv) > 3 else -1
     
     for factor in FACTORS:
         factor_str = "" if TYPE == "lowerbounds" else str(factor)
@@ -81,7 +81,7 @@ for benchmark in BENCHMARKS:
             last_time /= FACTOR_DIV
             inner_costs.append((math.ceil(last_time / 60.0) * FACTOR_DIV * 60, last_cost))
             for time, cost in inner_costs:
-                normalized = 1.0 - ((cost - LOWER_BOUNDS) / (first_cost - LOWER_BOUNDS))
+                normalized = 1.0 - ((cost - LOWER_BOUNDS) / (upper_bound - LOWER_BOUNDS))
                 costs.append( (time/FACTOR_DIV, normalized, cost, best_cost) )
             ## FOR
         else:
