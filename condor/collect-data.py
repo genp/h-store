@@ -19,7 +19,7 @@ if TYPE == "backtracks":
     DATA_EXT = ""
     BENCHMARKS = [ 'tpce' ]
 elif TYPE == "localtime":
-    FACTORS = range(300, 3000, 300)
+    FACTORS = range(300, 3300, 300)
     FACTOR_DIV = 60
     DATA_DIR = "LocalTime"
     DATA_EXT = "x%d" % TOTAL_TIME
@@ -86,7 +86,7 @@ for benchmark in BENCHMARKS:
             ## FOR
         else:
             normalized = 1.0 - ((best_cost - LOWER_BOUNDS) / (first_cost - LOWER_BOUNDS))
-            costs.append( (factor/FACTOR_DIV, normalized, first_cost, best_cost) )
+            costs.append( (factor/FACTOR_DIV, normalized, upper_bound, best_cost) )
     ## FOR
     
     if len(BENCHMARKS) > 1: print benchmark
