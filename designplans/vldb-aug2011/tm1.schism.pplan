@@ -60,12 +60,6 @@
    "ATTRIBUTE": "{'InsertCallForwarding':'0'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
   },
-  "{'database':'InsertSubscriber'}": {
-   "SINGLE_PARTITION": true,
-   "METHOD": "HASH",
-   "ATTRIBUTE": "{'InsertSubscriber':'1'}",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
-  },
   "{'database':'UpdateLocation'}": {
    "SINGLE_PARTITION": false,
    "METHOD": "HASH",

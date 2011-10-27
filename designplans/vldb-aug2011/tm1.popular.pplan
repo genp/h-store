@@ -74,14 +74,6 @@
    "PARENT_ATTRIBUTE": null,
    "SINGLE_PARTITION": "false"
   },
-  "database.InsertSubscriber": {
-   "METHOD": "HASH",
-   "ATTRIBUTE": "InsertSubscriber.0",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": "true"
-  },
   "database.UpdateLocation": {
    "METHOD": "HASH",
    "ATTRIBUTE": "UpdateLocation.0",
