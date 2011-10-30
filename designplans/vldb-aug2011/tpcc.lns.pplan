@@ -4,8 +4,8 @@
    "PARENT_ATTRIBUTE": "{'DISTRICT':'D_W_ID'}",
    "PARENT": "{'database':'DISTRICT'}",
    "METHOD": "MAP",
-   "ATTRIBUTE": "{'CUSTOMER':'C_W_ID'}",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+    "ATTRIBUTE": "{'CUSTOMER#*VerticalPartitionColumn*':[{'CUSTOMER':'C_W_ID'},{'CUSTOMER#*MultiColumn*':[{'CUSTOMER':'C_ID'},{'CUSTOMER':'C_D_ID'},{'CUSTOMER':'C_W_ID'},{'CUSTOMER':'C_FIRST'},{'CUSTOMER':'C_LAST'}]}]}",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.VerticalPartitionColumn"
   },
   "{'database':'CUSTOMER_NAME'}": {
    "PARENT_ATTRIBUTE": null,
