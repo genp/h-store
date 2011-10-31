@@ -1,11 +1,11 @@
 {
  "TABLE_ENTRIES": {
   "{'database':'CUSTOMER'}": {
-   "PARENT_ATTRIBUTE": null,
-   "PARENT": null,
-   "METHOD": "HASH",
-   "ATTRIBUTE": "{'CUSTOMER#*VerticalPartitionColumn*':[{'CUSTOMER#*MultiColumn*':[{'CUSTOMER':'C_W_ID'},{'CUSTOMER':'C_D_ID'}]},{'CUSTOMER#*MultiColumn*':[{'CUSTOMER':'C_W_ID'},{'CUSTOMER':'C_D_ID'},{'CUSTOMER':'C_ID'},{'CUSTOMER':'C_FIRST'},{'CUSTOMER':'C_LAST'}]}]}",
-   "ATTRIBUTE_class": "edu.brown.catalog.special.VerticalPartitionColumn"
+   "PARENT_ATTRIBUTE": "{'DISTRICT':'D_W_ID'}",
+   "PARENT": "{'database':'DISTRICT'}",
+   "METHOD": "MAP",
+   "ATTRIBUTE": "{'CUSTOMER':'C_W_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'CUSTOMER_NAME'}": {
    "PARENT_ATTRIBUTE": null,

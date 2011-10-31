@@ -13,10 +13,10 @@
 
 
 Executable = /usr/bin/ant
-Remote_InitialDir = /home/pavlo/Documents/H-Store/SVN-Brown/branches/partitioning-branch/
+Remote_InitialDir = /home/pavlo/Documents/H-Store/SVN-Brown/branches/newdtxn-branch/
 Universe = vanilla
 Requirements = (TARGET.OpSys == "LINUX" && TARGET.Arch == "$(HSTORE_ARCH)" && TARGET.FileSystemDomain != "XYZ") && \
-               (TARGET.Memory >= 1600 && TARGET.KeyboardIdle >= (5 * 60))
+               (TARGET.Memory >= 1600 && TARGET.KeyboardIdle >= (1 * 60))
 
 stream_output = True
 stream_error  = True
@@ -43,12 +43,14 @@ HSTORE_MEMORY = 1600
 HSTORE_ARCH = INTEL
 HSTORE_JOB_DIR = output/$(HSTORE_TEST_TYPE)/$(HSTORE_BENCHMARK)
 HSTORE_CHECKPOINT = files/condor/$(HSTORE_JOB_DIR)/$(HSTORE_LOG_PREFIX).checkpoint
+HSTORE_CONF = properties/default.properties
 
 Log = $(HSTORE_JOB_DIR)/$(HSTORE_LOG_PREFIX).log
 Output = $(HSTORE_JOB_DIR)/$(HSTORE_LOG_PREFIX).out
 Error = $(HSTORE_JOB_DIR)/$(HSTORE_LOG_PREFIX).err
 
 Arguments = $(HSTORE_TARGET) \
+            -Dconf=$(HSTORE_CONF) \
             -Dvolt.client.memory=$(HSTORE_MEMORY) \
             -Dhosts=localhost:0:0-$(HSTORE_PARTITIONS) \
             -Dproject=$(HSTORE_BENCHMARK) \
