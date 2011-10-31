@@ -9,7 +9,6 @@ import string
 TYPE = sys.argv[1].lower()
 LOWER_BOUNDS = float(sys.argv[2])
 
-BENCHMARK = "tpce"
 TOTAL_TIME = 7200
 
 if TYPE == "backtracks":

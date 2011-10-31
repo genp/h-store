@@ -27,6 +27,7 @@ notification = Error
 periodic_release = True
 on_exit_remove = (ExitBySignal == False) && (ExitCode == 0)
 
+HSTORE_TARGET = designer-benchmark
 HSTORE_PARTITIONER = LNSPartitioner
 HSTORE_COSTMODEL = TimeIntervalCostModel
 HSTORE_INTERVALS = 12
@@ -47,7 +48,7 @@ Log = $(HSTORE_JOB_DIR)/$(HSTORE_LOG_PREFIX).log
 Output = $(HSTORE_JOB_DIR)/$(HSTORE_LOG_PREFIX).out
 Error = $(HSTORE_JOB_DIR)/$(HSTORE_LOG_PREFIX).err
 
-Arguments = designer-benchmark \
+Arguments = $(HSTORE_TARGET) \
             -Dvolt.client.memory=$(HSTORE_MEMORY) \
             -Dhosts=localhost:0:0-$(HSTORE_PARTITIONS) \
             -Dproject=$(HSTORE_BENCHMARK) \
