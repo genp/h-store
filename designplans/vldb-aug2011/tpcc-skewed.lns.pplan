@@ -3,9 +3,9 @@
   "{'database':'CUSTOMER'}": {
    "PARENT_ATTRIBUTE": "{'DISTRICT':'D_W_ID'}",
    "PARENT": "{'database':'DISTRICT'}",
-   "METHOD": "MAP",
-   "ATTRIBUTE": "{'CUSTOMER':'C_W_ID'}",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'CUSTOMER#*MultiColumn*':[{'CUSTOMER':'C_W_ID'},{'CUSTOMER':'C_D_ID'}]}",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiColumn"
   },
   "{'database':'CUSTOMER_NAME'}": {
    "PARENT_ATTRIBUTE": null,
