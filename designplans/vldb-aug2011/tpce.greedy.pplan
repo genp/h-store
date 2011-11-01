@@ -1,11 +1,10 @@
 {
  "TABLE_ENTRIES": {
   "{'database':'ACCOUNT_PERMISSION'}": {
-   "PARENT_ATTRIBUTE": "{'CUSTOMER_ACCOUNT':'CA_ID'}",
-   "PARENT": "{'database':'CUSTOMER_ACCOUNT'}",
-   "METHOD": "MAP",
-   "ATTRIBUTE": "{'ACCOUNT_PERMISSION':'AP_CA_ID'}",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "REPLICATION",
+   "ATTRIBUTE": null
   },
   "{'database':'ADDRESS'}": {
    "PARENT_ATTRIBUTE": null,
@@ -16,13 +15,14 @@
   "{'database':'BROKER'}": {
    "PARENT_ATTRIBUTE": null,
    "PARENT": null,
-   "METHOD": "REPLICATION",
-   "ATTRIBUTE": null
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'BROKER':'B_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'CASH_TRANSACTION'}": {
-   "PARENT_ATTRIBUTE": "{'TRADE':'T_ID'}",
-   "PARENT": "{'database':'TRADE'}",
-   "METHOD": "MAP",
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
    "ATTRIBUTE": "{'CASH_TRANSACTION':'CT_T_ID'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
@@ -59,21 +59,21 @@
   "{'database':'CUSTOMER_ACCOUNT'}": {
    "PARENT_ATTRIBUTE": null,
    "PARENT": null,
-   "METHOD": "REPLICATION",
-   "ATTRIBUTE": null
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'CUSTOMER_ACCOUNT':'CA_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'CUSTOMER_TAXRATE'}": {
-   "PARENT_ATTRIBUTE": "{'CUSTOMER':'C_ID'}",
-   "PARENT": "{'database':'CUSTOMER'}",
-   "METHOD": "MAP",
-   "ATTRIBUTE": "{'CUSTOMER_TAXRATE':'CX_C_ID'}",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "REPLICATION",
+   "ATTRIBUTE": null
   },
   "{'database':'DAILY_MARKET'}": {
    "PARENT_ATTRIBUTE": null,
    "PARENT": null,
    "METHOD": "HASH",
-   "ATTRIBUTE": "{'DAILY_MARKET':'DM_DATE'}",
+   "ATTRIBUTE": "{'DAILY_MARKET':'DM_S_SYMB'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'EXCHANGE'}": {
@@ -89,23 +89,23 @@
    "ATTRIBUTE": null
   },
   "{'database':'HOLDING'}": {
-   "PARENT_ATTRIBUTE": "{'HOLDING_SUMMARY':'HS_CA_ID'}",
-   "PARENT": "{'database':'HOLDING_SUMMARY'}",
-   "METHOD": "MAP",
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
    "ATTRIBUTE": "{'HOLDING':'H_CA_ID'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'HOLDING_HISTORY'}": {
-   "PARENT_ATTRIBUTE": "{'TRADE':'T_ID'}",
-   "PARENT": "{'database':'TRADE'}",
-   "METHOD": "MAP",
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
    "ATTRIBUTE": "{'HOLDING_HISTORY':'HH_T_ID'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'HOLDING_SUMMARY'}": {
-   "PARENT_ATTRIBUTE": "{'CUSTOMER_ACCOUNT':'CA_ID'}",
-   "PARENT": "{'database':'CUSTOMER_ACCOUNT'}",
-   "METHOD": "MAP",
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
    "ATTRIBUTE": "{'HOLDING_SUMMARY':'HS_CA_ID'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
@@ -118,8 +118,9 @@
   "{'database':'LAST_TRADE'}": {
    "PARENT_ATTRIBUTE": null,
    "PARENT": null,
-   "METHOD": "REPLICATION",
-   "ATTRIBUTE": null
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'LAST_TRADE':'LT_S_SYMB'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'NEWS_ITEM'}": {
    "PARENT_ATTRIBUTE": null,
@@ -146,9 +147,9 @@
    "ATTRIBUTE": null
   },
   "{'database':'SETTLEMENT'}": {
-   "PARENT_ATTRIBUTE": "{'TRADE':'T_ID'}",
-   "PARENT": "{'database':'TRADE'}",
-   "METHOD": "MAP",
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
    "ATTRIBUTE": "{'SETTLEMENT':'SE_T_ID'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
@@ -165,24 +166,25 @@
    "ATTRIBUTE": null
   },
   "{'database':'TRADE'}": {
-   "PARENT_ATTRIBUTE": "{'CUSTOMER_ACCOUNT':'CA_ID'}",
-   "PARENT": "{'database':'CUSTOMER_ACCOUNT'}",
-   "METHOD": "MAP",
-   "ATTRIBUTE": "{'TRADE':'T_CA_ID'}",
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'TRADE':'T_ID'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'TRADE_HISTORY'}": {
-   "PARENT_ATTRIBUTE": "{'TRADE':'T_ID'}",
-   "PARENT": "{'database':'TRADE'}",
-   "METHOD": "MAP",
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
    "ATTRIBUTE": "{'TRADE_HISTORY':'TH_T_ID'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'TRADE_REQUEST'}": {
    "PARENT_ATTRIBUTE": null,
    "PARENT": null,
-   "METHOD": "REPLICATION",
-   "ATTRIBUTE": null
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'TRADE_REQUEST':'TR_S_SYMB'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
   "{'database':'TRADE_TYPE'}": {
    "PARENT_ATTRIBUTE": null,
@@ -197,11 +199,10 @@
    "ATTRIBUTE": null
   },
   "{'database':'WATCH_LIST'}": {
-   "PARENT_ATTRIBUTE": "{'CUSTOMER':'C_ID'}",
-   "PARENT": "{'database':'CUSTOMER'}",
-   "METHOD": "MAP",
-   "ATTRIBUTE": "{'WATCH_LIST':'WL_C_ID'}",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "REPLICATION",
+   "ATTRIBUTE": null
   },
   "{'database':'ZIP_CODE'}": {
    "PARENT_ATTRIBUTE": null,
@@ -250,7 +251,7 @@
   "{'database':'SecurityDetail'}": {
    "SINGLE_PARTITION": null,
    "METHOD": "HASH",
-   "ATTRIBUTE": "{'SecurityDetail':'2'}",
+   "ATTRIBUTE": "{'SecurityDetail':'0'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
   },
   "{'database':'TradeCleanup'}": {
@@ -262,7 +263,7 @@
   "{'database':'TradeLookup'}": {
    "SINGLE_PARTITION": null,
    "METHOD": "HASH",
-   "ATTRIBUTE": "{'TradeLookup':'1'}",
+   "ATTRIBUTE": "{'TradeLookup':'0'}",
    "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
   },
   "{'database':'TradeOrder'}": {
