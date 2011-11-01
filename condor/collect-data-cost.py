@@ -5,77 +5,68 @@ import os
 import sys
 import math
 import string
+import re
 import glob
-
-TYPE = sys.argv[1].lower()
-LOWER_BOUNDS = float(sys.argv[2])
+from pprint import pprint
 
 BENCHMARKS = [ 'tm1', 'tpcc', 'airline', 'auctionmark', 'tpce' ]
 RESULTS = { }
 
-for benchmark in BENCHMARKS:
-    for f in glob("output/CostEstimate/%s/%s*.out" % (benchmark, benchmark)):
-        
-    
-    costs = [ ]
-    upper_bound = float(sys.argv[3]) if len(sys.argv) > 3 else -1
-    
-    for factor in FACTORS:
-        factor_str = "" if TYPE == "lowerbounds" else str(factor)
-        f = "output/%s/%s/%s-1.%s%s.costs" % (DATA_DIR, benchmark, benchmark, factor_str, DATA_EXT)
-        if not os.path.exists(f):
-            print "Missing '%s'" % f
-            continue
+COSTS = [ 'EXEC', 'SKEW' ]
+REGEXES = { }
+for c in COSTS:
+    REGEXES[c] = re.compile("%s COST:[\s]+([\d\.]+)" % c, re.IGNORECASE)
+## FOR
+P_REGEX = re.compile("PARTITIONS:[\s]+([\d]+)", re.IGNORECASE)
 
-        best_cost = None
-        first_time = None
-        first_cost = None
-        inner_costs = [ ]
+for benchmark in BENCHMARKS:
+    PPLAN_REGEX = re.compile("%s\.([\w]+)\.pplan" % benchmark, re.IGNORECASE)
+        
+    RESULTS[benchmark] = { }
+    for f in glob.glob("output/CostEstimate/%s/%s*.out" % (benchmark, benchmark)):
+        print f
         with open(f, 'r') as f:
-            ## Go backwards until the cost goes up
-            for line in map(string.strip, reversed(f.readlines())):
-                if line.startswith("--"): continue
-                #print line
-                data = line.split("\t")
-                assert len(data) == 2
-                time = int(data[0])
-                cost = float(data[1])
-                if first_time == None:
-                    best_cost = first_cost = cost
-                elif first_time < time:
-                    break
-                else:
-                    first_cost = cost
-                first_time = time
-                inner_costs.append((time, cost))
+            contents = f.read()
+            
+            match = PPLAN_REGEX.search(contents)
+            if not match:
+                print "WARN: Missing PARTITION PLAN DESIGNER in %s" % f
+                continue
+            design = match.group(1)
+            if not design in RESULTS[benchmark]:
+                RESULTS[benchmark][design] = { }
+            
+            match = P_REGEX.search(contents)
+            if not match:
+                print "WARN: Missing PARTITIONS in %s" % f
+                continue
+            partitions = int(match.group(1))
+            RESULTS[benchmark][design][partitions] = { }
+            if not partitions in RESULTS[benchmark][design]:
+                RESULTS[benchmark][design][partitions] = { }
+            
+            for c in COSTS:
+                match = REGEXES[c].search(contents)
+                assert match, "Missing %s in %s" % (c, f)
+                val = float(match.group(1))
+                if c == "EXEC": val *= 0.1
+                RESULTS[benchmark][design][partitions][c] = val
             ## FOR
         ## WITH
-        assert first_cost
-        assert best_cost
-        upper_bound = max(upper_bound, first_cost)
-        
-        #print "first_cost:", first_cost
-        #print "best_costs:", best_cost
-        
-        if TYPE == "lowerbounds":
-            inner_costs.reverse()
-            last_time, last_cost = inner_costs[-1]
-            last_time /= FACTOR_DIV
-            inner_costs.append((math.ceil(last_time / 60.0) * FACTOR_DIV * 60, last_cost))
-            for time, cost in inner_costs:
-                normalized = 1.0 - ((cost - LOWER_BOUNDS) / (upper_bound - LOWER_BOUNDS))
-                costs.append( (time/FACTOR_DIV, normalized, cost, best_cost) )
-            ## FOR
-        else:
-            normalized = 1.0 - ((best_cost - LOWER_BOUNDS) / (first_cost - LOWER_BOUNDS))
-            costs.append( (factor/FACTOR_DIV, normalized, upper_bound, best_cost) )
     ## FOR
-    
-    if len(BENCHMARKS) > 1: print benchmark
-    for factor, normalized, first_cost, best_cost in costs:
-        print "%d\t%f\t%f\t%f" % (factor, normalized, first_cost, best_cost)
-    print
 ## FOR
 
+expected = [ 'lns', 'schism', 'greedy', 'pkey', 'popular' ]
+for b in RESULTS.keys():
+    print b
+    for d in expected:
+        vals = [ ]
+        for p in sorted(RESULTS[b][d].keys()):
+            vals.append(RESULTS[b][d][p]["EXEC"])
+            vals.append(RESULTS[b][d][p]["SKEW"])
+        ## FOR
+        print " ".join(map(str, vals))
+    print
+## FOR
 
     

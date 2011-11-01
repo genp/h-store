@@ -5,7 +5,7 @@
 HSTORE_TARGET = designer-estimate
 HSTORE_TEST_TYPE = CostEstimate
 HSTORE_LOG_PREFIX = $(HSTORE_WORKLOAD).$(HSTORE_PPLAN).$(HSTORE_PARTITIONS)
-HSTORE_EXTRA_PARAMS = partitionplan=files/designplans/vldb-aug2011/$(HSTORE_BENCHMARK).$(HSTORE_PPLAN).pplan partitionplan.randomprocs=$(HSTORE_PPLAN_RANDOM)
+HSTORE_EXTRA_PARAMS = partitionplan=files/designplans/vldb-aug2011/$(HSTORE_BENCHMARK).$(HSTORE_PPLAN).pplan partitionplan.randomprocs=$(HSTORE_PPLAN_RANDOM) designer.hints.WEIGHT_COSTMODEL_EXECUTION=1 designer.hints.WEIGHT_COSTMODEL_EXECUTION=1 designer.hints.WEIGHT_COSTMODEL_SKEW=1
 HSTORE_COSTMODEL = TimeIntervalCostModel
 HSTORE_XACTLIMIT = 25000
 HSTORE_PROCINCLUDE_MULTIPLIER = 250
