@@ -1,0 +1,63 @@
+## ---------------------------------------------------------------------------
+##  _  _     ___ _____ ___  ___ ___ 
+## | || |___/ __|_   _/ _ \| _ \ __|
+## | __ |___\__ \ | || (_) |   / _| 
+## |_||_|   |___/ |_| \___/|_|_\___|
+##
+## Next Generation OLTP Database Research
+## ---------------------------------------------------------------------------
+
+More information and documentation is available at:
+
+http://hstore.cs.brown.edu
+
+## ---------------------------------------------------------------------------
+## OVERVIEW
+## ---------------------------------------------------------------------------
+
+This repository contains additional files used for running various
+experiments and tests in H-Store. They are not required for the database
+to operate and likely are only useful for the researchers working on
+the system.
+
+## ---------------------------------------------------------------------------
+## DIRECTORIES
+## ---------------------------------------------------------------------------
+
++ CATALOGJSON
+Handwritten mappings from MySQL traces for benchmarks to equivalent
+H-Store procedures and statements.
+
++ CONDOR
+Job submission scripts to run experiments using the Condor batch processing system.
+
++ DESIGNHINTS
+JSON-based configuration files for running experiments with H-Store's automatic
+database partitioning/sharding utility.
+
++ DESIGNPLANS
+Sample database designs produced for various benchmark's using different design algorithms.
+
++ MAPPINGS
+Probabilistic parameters mappings from Procedure input parameters to their corresponding
+Statement input parameters.
+See the following URL for more information:
+
+http://hstore.cs.brown.edu/documentation/development/parameter-mappings
+
++ MARKOVS
+Markov models for the benchmark workloads. Used at run time to predict what transactions will do.
+See the following URL for more information:
+
+http://hstore.cs.brown.edu/projects/predictive-modeling
+
++ STATS
+Pre-generated statistics for benchmark workloads. Not really accurate and not really used
+
++ WORKLOADS
+Sample benchmark workloads. Used extensively for various offline analysis experiments and testing.
+The beginning of each file name corresponds to the benchmark that the trace contains data from.
+
+See the following URL for more information:
+
+http://hstore.cs.brown.edu/documentation/deployment/trace-logs

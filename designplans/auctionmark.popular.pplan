@@ -1,226 +1,173 @@
 {
  "TABLE_ENTRIES": {
-  "database.CATEGORY": {
+  "{'database':'CATEGORY'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
    "METHOD": "REPLICATION",
-   "ATTRIBUTE": null,
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": null
+   "ATTRIBUTE": null
   },
-  "database.GLOBAL_ATTRIBUTE_GROUP": {
+  "{'database':'GLOBAL_ATTRIBUTE_GROUP'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
    "METHOD": "REPLICATION",
-   "ATTRIBUTE": null,
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": null
+   "ATTRIBUTE": null
   },
-  "database.GLOBAL_ATTRIBUTE_VALUE": {
+  "{'database':'GLOBAL_ATTRIBUTE_VALUE'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
    "METHOD": "REPLICATION",
-   "ATTRIBUTE": null,
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": null
+   "ATTRIBUTE": null
   },
-  "database.ITEM": {
+  "{'database':'ITEM'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
    "METHOD": "HASH",
-   "ATTRIBUTE": "ITEM.I_ID",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": null
+   "ATTRIBUTE": "{'ITEM':'I_U_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
-  "database.ITEM_ATTRIBUTE": {
+  "{'database':'ITEM_ATTRIBUTE'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
    "METHOD": "HASH",
-   "ATTRIBUTE": "ITEM_ATTRIBUTE.IA_GAG_ID",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": null
+   "ATTRIBUTE": "{'ITEM_ATTRIBUTE':'IA_GAG_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
-  "database.ITEM_BID": {
+  "{'database':'ITEM_BID'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
    "METHOD": "HASH",
-   "ATTRIBUTE": "ITEM_BID.IB_I_ID",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": null
+   "ATTRIBUTE": "{'ITEM_BID':'IB_U_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
-  "database.ITEM_COMMENT": {
+  "{'database':'ITEM_COMMENT'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
    "METHOD": "HASH",
-   "ATTRIBUTE": "ITEM_COMMENT.IC_U_ID",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": null
+   "ATTRIBUTE": "{'ITEM_COMMENT':'IC_U_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
-  "database.ITEM_FEEDBACK": {
+  "{'database':'ITEM_IMAGE'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
    "METHOD": "HASH",
-   "ATTRIBUTE": "ITEM_FEEDBACK.IF_U_ID",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": null
+   "ATTRIBUTE": "{'ITEM_IMAGE':'II_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
-  "database.ITEM_IMAGE": {
+  "{'database':'ITEM_MAX_BID'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
    "METHOD": "HASH",
-   "ATTRIBUTE": "ITEM_IMAGE.II_ID",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": null
+   "ATTRIBUTE": "{'ITEM_MAX_BID':'IMB_I_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
-  "database.ITEM_MAX_BID": {
+  "{'database':'ITEM_PURCHASE'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
    "METHOD": "HASH",
-   "ATTRIBUTE": "ITEM_MAX_BID.IMB_I_ID",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": null
+   "ATTRIBUTE": "{'ITEM_PURCHASE':'IP_IB_U_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
-  "database.ITEM_PURCHASE": {
-   "METHOD": "HASH",
-   "ATTRIBUTE": "ITEM_PURCHASE.IP_IB_I_ID",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column",
-   "PARENT": null,
+  "{'database':'REGION'}": {
    "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": null
-  },
-  "database.REGION": {
+   "PARENT": null,
    "METHOD": "REPLICATION",
-   "ATTRIBUTE": null,
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": null
+   "ATTRIBUTE": null
   },
-  "database.USER": {
-   "METHOD": "HASH",
-   "ATTRIBUTE": "USER.U_ID",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column",
-   "PARENT": null,
+  "{'database':'USER'}": {
    "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": null
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'USER':'U_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
   },
-  "database.USER_WATCH": {
-   "METHOD": "HASH",
-   "ATTRIBUTE": "USER_WATCH.UW_U_ID",
-   "ATTRIBUTE_class": "org.voltdb.catalog.Column",
-   "PARENT": null,
+  "{'database':'USER_ATTRIBUTES'}": {
    "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": null
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'USER_ATTRIBUTES':'U_CREATED'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+  },
+  "{'database':'USER_FEEDBACK'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'USER_FEEDBACK':'UF_U_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+  },
+  "{'database':'USER_ITEM'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'USER_ITEM':'UI_U_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+  },
+  "{'database':'USER_WATCH'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "REPLICATION",
+   "ATTRIBUTE": null
   }
  },
  "PROC_ENTRIES": {
-  "database.CheckWinningBids": {
+  "{'database':'CloseAuctions'}": {
+   "SINGLE_PARTITION": true,
    "METHOD": "HASH",
-   "ATTRIBUTE": "CheckWinningBids.0",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": "false"
+   "ATTRIBUTE": "{'CloseAuctions':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
   },
-  "database.GetComment": {
+  "{'database':'GetItem'}": {
+   "SINGLE_PARTITION": true,
    "METHOD": "HASH",
-   "ATTRIBUTE": "GetComment.0",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": "true"
+   "ATTRIBUTE": "{'GetItem':'2'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
   },
-  "database.GetItem": {
+  "{'database':'GetUserInfo'}": {
+   "SINGLE_PARTITION": false,
    "METHOD": "HASH",
-   "ATTRIBUTE": "GetItem.0",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": "false"
+   "ATTRIBUTE": "{'GetUserInfo':'1'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
   },
-  "database.GetUserInfo": {
+  "{'database':'NewBid'}": {
+   "SINGLE_PARTITION": false,
    "METHOD": "HASH",
-   "ATTRIBUTE": "GetUserInfo.0",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": "false"
+   "ATTRIBUTE": "{'NewBid':'1'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
   },
-  "database.GetWatchedItems": {
+  "{'database':'NewCommentResponse'}": {
+   "SINGLE_PARTITION": true,
    "METHOD": "HASH",
-   "ATTRIBUTE": "GetWatchedItems.0",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": "false"
+   "ATTRIBUTE": "{'NewCommentResponse':'2'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
   },
-  "database.NewBid": {
+  "{'database':'NewComment'}": {
+   "SINGLE_PARTITION": true,
    "METHOD": "HASH",
-   "ATTRIBUTE": "NewBid.0",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": "true"
+   "ATTRIBUTE": "{'NewComment':'2'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
   },
-  "database.NewCommentResponse": {
+  "{'database':'NewFeedback'}": {
+   "SINGLE_PARTITION": true,
    "METHOD": "HASH",
-   "ATTRIBUTE": "NewCommentResponse.2",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": "true"
+   "ATTRIBUTE": "{'NewFeedback':'2'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
   },
-  "database.NewComment": {
+  "{'database':'NewItem'}": {
+   "SINGLE_PARTITION": false,
    "METHOD": "HASH",
-   "ATTRIBUTE": "NewComment.1",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": "true"
+   "ATTRIBUTE": "{'NewItem':'1'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
   },
-  "database.NewFeedback": {
+  "{'database':'NewPurchase'}": {
+   "SINGLE_PARTITION": false,
    "METHOD": "HASH",
-   "ATTRIBUTE": "NewFeedback.1",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": "true"
+   "ATTRIBUTE": "{'NewPurchase':'2'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
   },
-  "database.NewItem": {
+  "{'database':'UpdateItem'}": {
+   "SINGLE_PARTITION": false,
    "METHOD": "HASH",
-   "ATTRIBUTE": "NewItem.0",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": "false"
-  },
-  "database.NewPurchase": {
-   "METHOD": "HASH",
-   "ATTRIBUTE": "NewPurchase.1",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": "true"
-  },
-  "database.NewUser": {
-   "METHOD": "HASH",
-   "ATTRIBUTE": "NewUser.0",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": "true"
-  },
-  "database.PostAuction": {
-   "METHOD": "HASH",
-   "ATTRIBUTE": "PostAuction.0",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": "false"
-  },
-  "database.UpdateItem": {
-   "METHOD": "HASH",
-   "ATTRIBUTE": "UpdateItem.0",
-   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter",
-   "PARENT": null,
-   "PARENT_ATTRIBUTE": null,
-   "SINGLE_PARTITION": "true"
+   "ATTRIBUTE": "{'UpdateItem':'2'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
   }
  }
 }
