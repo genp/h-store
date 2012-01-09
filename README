@@ -36,27 +36,30 @@ JSON-based configuration files for running experiments with H-Store's automatic
 database partitioning/sharding utility.
 
 + DESIGNPLANS
-Sample database designs produced for various benchmark's using different design algorithms.
+Sample database designs produced for various benchmark's using different
+design algorithms.
 
 + MAPPINGS
-Probabilistic parameters mappings from Procedure input parameters to their corresponding
-Statement input parameters.
+Probabilistic parameters mappings from Procedure input parameters to their
+corresponding Statement input parameters.
 See the following URL for more information:
 
 http://hstore.cs.brown.edu/documentation/development/parameter-mappings
 
 + MARKOVS
-Markov models for the benchmark workloads. Used at run time to predict what transactions will do.
+Markov models for the benchmark workloads. Used at run time to predict what
+transactions will do.
 See the following URL for more information:
 
 http://hstore.cs.brown.edu/projects/predictive-modeling
 
 + STATS
-Pre-generated statistics for benchmark workloads. Not really accurate and not really used
+Pre-generated statistics for benchmark workloads. Not really accurate and not used at run-time.
 
 + WORKLOADS
-Sample benchmark workloads. Used extensively for various offline analysis experiments and testing.
-The beginning of each file name corresponds to the benchmark that the trace contains data from.
+Sample benchmark workloads. Used extensively for various offline analysis
+experiments and testing. The beginning of each file name corresponds to the benchmark that the
+trace contains data from.
 
 See the following URL for more information:
 
