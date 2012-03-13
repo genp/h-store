@@ -1,3 +1,6 @@
 [submodule "files"]
 	path = files
 	url = git://github.com/apavlo/h-store-files.git
+[submodule "h-store-files"]
+	path = h-store-files
+	url = git@github.com:apavlo/h-store-files.git
