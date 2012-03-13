@@ -1,0 +1,115 @@
+{
+ "TABLE_ENTRIES": {
+  "{'database':'CUSTOMER'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'CUSTOMER#*VerticalPartitionColumn*':[{'CUSTOMER':'C_W_ID'},{'CUSTOMER#*MultiColumn*':[{'CUSTOMER':'C_W_ID'},{'CUSTOMER':'C_D_ID'},{'CUSTOMER':'C_ID'},{'CUSTOMER':'C_FIRST'},{'CUSTOMER':'C_LAST'}]}]}",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.VerticalPartitionColumn"
+  },
+  "{'database':'CUSTOMER_NAME'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "REPLICATION",
+   "ATTRIBUTE": null
+  },
+  "{'database':'DISTRICT'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'DISTRICT#*MultiColumn*':[{'DISTRICT':'D_W_ID'},{'DISTRICT':'D_ID'}]}",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiColumn"
+  },
+  "{'database':'HISTORY'}": {
+   "PARENT_ATTRIBUTE": "{'DISTRICT':'D_ID'}",
+   "PARENT": "{'database':'DISTRICT'}",
+   "METHOD": "MAP",
+   "ATTRIBUTE": "{'HISTORY#*MultiColumn*':[{'HISTORY':'H_W_ID'},{'HISTORY':'H_D_ID'}]}",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiColumn"
+  },
+  "{'database':'ITEM'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "REPLICATION",
+   "ATTRIBUTE": null
+  },
+  "{'database':'NEW_ORDER'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'NEW_ORDER#*MultiColumn*':[{'NEW_ORDER':'NO_W_ID'},{'NEW_ORDER':'NO_D_ID'}]}",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiColumn"
+  },
+  "{'database':'ORDERS'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'ORDERS#*MultiColumn*':[{'ORDERS':'O_W_ID'},{'ORDERS':'O_D_ID'}]}",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiColumn"
+  },
+  "{'database':'ORDER_LINE'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'ORDER_LINE#*MultiColumn*':[{'ORDER_LINE':'OL_W_ID'},{'ORDER_LINE':'OL_D_ID'}]}",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiColumn"
+  },
+  "{'database':'STOCK'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'STOCK#*MultiColumn*':[{'STOCK':'S_I_ID'},{'STOCK':'S_W_ID'}]}",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiColumn"
+  },
+  "{'database':'WAREHOUSE'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "REPLICATION",
+   "ATTRIBUTE": null
+  }
+ },
+ "PROC_ENTRIES": {
+  "{'database':'delivery'}": {
+   "SINGLE_PARTITION": true,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'delivery':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'neworder'}": {
+   "SINGLE_PARTITION": false,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'neworder':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'ostatByCustomerId'}": {
+   "SINGLE_PARTITION": true,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'ostatByCustomerId':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'ostatByCustomerName'}": {
+   "SINGLE_PARTITION": true,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'ostatByCustomerName':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'paymentByCustomerId'}": {
+   "SINGLE_PARTITION": false,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'paymentByCustomerId':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'paymentByCustomerName'}": {
+   "SINGLE_PARTITION": false,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'paymentByCustomerName':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'slev'}": {
+   "SINGLE_PARTITION": true,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'slev':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  }
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "TABLE_ENTRIES": {
+  "{'database':'AIRLINE'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "REPLICATION",
+   "ATTRIBUTE": null
+  },
+  "{'database':'AIRPORT'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "REPLICATION",
+   "ATTRIBUTE": null
+  },
+  "{'database':'AIRPORT_DISTANCE'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "REPLICATION",
+   "ATTRIBUTE": null
+  },
+  "{'database':'COUNTRY'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "REPLICATION",
+   "ATTRIBUTE": null
+  },
+  "{'database':'CUSTOMER'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'CUSTOMER':'C_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+  },
+  "{'database':'FLIGHT'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'FLIGHT':'F_ID'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.Column"
+  },
+  "{'database':'FREQUENT_FLYER'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'FREQUENT_FLYER#*MultiColumn*':[{'FREQUENT_FLYER':'FF_C_ID'},{'FREQUENT_FLYER':'FF_AL_ID'}]}",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiColumn"
+  },
+  "{'database':'RESERVATION'}": {
+   "PARENT_ATTRIBUTE": null,
+   "PARENT": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'RESERVATION#*MultiColumn*':[{'RESERVATION':'R_ID'},{'RESERVATION':'R_C_ID'},{'RESERVATION':'R_F_ID'}]}",
+   "ATTRIBUTE_class": "edu.brown.catalog.special.MultiColumn"
+  }
+ },
+ "PROC_ENTRIES": {
+  "{'database':'DeleteReservation'}": {
+   "SINGLE_PARTITION": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'DeleteReservation':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'FindFlights'}": {
+   "SINGLE_PARTITION": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'FindFlights':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'FindOpenSeats'}": {
+   "SINGLE_PARTITION": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'FindOpenSeats':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'NewReservation'}": {
+   "SINGLE_PARTITION": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'NewReservation':'1'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'UpdateCustomer'}": {
+   "SINGLE_PARTITION": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'UpdateCustomer':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  },
+  "{'database':'UpdateReservation'}": {
+   "SINGLE_PARTITION": null,
+   "METHOD": "HASH",
+   "ATTRIBUTE": "{'UpdateReservation':'0'}",
+   "ATTRIBUTE_class": "org.voltdb.catalog.ProcParameter"
+  }
+ }
+}

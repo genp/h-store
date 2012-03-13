@@ -1,0 +1,5060 @@
+{"MAPPINGS": [
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "59",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "39",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "58",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "38",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "18",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "57",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "37",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "17",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "56",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "36",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "16",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "55",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "35",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "15",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "54",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "34",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "14",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "53",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "33",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "13",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "52",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "32",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "12",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "51",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "31",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "11",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "50",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "30",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "10",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "49",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "29",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "9",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "48",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "28",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "8",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "47",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "27",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "7",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "46",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "26",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "6",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "45",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "25",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "5",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "44",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "24",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "4",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "43",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "23",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "3",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "42",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "22",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "2",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "41",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "21",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "1",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "40",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "20",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateTrade",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateTrade.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "18",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "17",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "16",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "15",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "14",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "13",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "12",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "11",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "10",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "9",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "8",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "7",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "6",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "5",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "4",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "3",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "2",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "1",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateSettlement",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateSettlement.1",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.updateCTName",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.updateCTName.1",
+  "STATEMENT_COLUMN": "CASH_TRANSACTION.CT_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "59",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "39",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "58",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "38",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "18",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "57",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "37",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "17",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "56",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "36",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "16",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "55",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "35",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "15",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "54",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "34",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "14",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "53",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "33",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "13",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "52",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "32",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "12",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "51",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "31",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "11",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "50",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "30",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "10",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "49",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "29",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "9",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "48",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "28",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "8",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "47",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "27",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "7",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "46",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "26",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "6",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "45",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "25",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "5",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "44",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "24",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "4",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "43",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "23",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "3",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "42",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "22",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "2",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "41",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "21",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "1",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "40",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "20",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeType",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeType.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeTypeSecurity",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeTypeSecurity.3",
+  "STATEMENT_COLUMN": "TRADE.T_DTS",
+  "PROCEDURE_PARAMETER": "TradeUpdate.6",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeTradeTypeSecurity",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeTradeTypeSecurity.2",
+  "STATEMENT_COLUMN": "TRADE.T_DTS",
+  "PROCEDURE_PARAMETER": "TradeUpdate.7",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "59",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "39",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "58",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "38",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "18",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "57",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "37",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "17",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "56",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "36",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "16",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "55",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "35",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "15",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "54",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "34",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "14",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "53",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "33",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "13",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "52",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "32",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "12",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "51",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "31",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "11",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "50",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "30",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "10",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "49",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "29",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "9",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "48",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "28",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "8",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "47",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "27",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "7",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "46",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "26",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "6",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "45",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "25",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "5",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "44",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "24",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "4",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "43",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "23",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "3",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "42",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "22",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "2",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "41",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "21",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "1",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "40",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "20",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTradeHistoryAsc",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTradeHistoryAsc.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "59",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "39",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "58",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "38",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "18",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "57",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "37",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "17",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "56",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "36",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "16",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "55",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "35",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "15",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "54",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "34",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "14",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "53",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "33",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "13",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "52",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "32",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "12",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "51",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "31",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "11",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "50",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "30",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "10",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "49",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "29",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "9",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "48",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "28",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "8",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "47",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "27",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "7",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "46",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "26",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "6",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "45",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "25",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "5",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "44",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "24",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "4",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "43",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "23",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "3",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "42",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "22",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "2",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "41",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "21",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "1",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "40",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "20",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getTrade1",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.getTrade1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "59",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "39",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "58",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "38",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "18",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "57",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "37",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "17",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "56",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "36",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "16",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "55",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "35",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "15",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "54",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "34",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "14",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "53",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "33",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "13",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "52",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "32",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "12",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "51",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "31",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "11",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "50",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "30",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "10",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "49",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "29",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "9",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "48",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "28",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "8",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "47",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "27",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "7",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "46",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "26",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "6",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "45",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "25",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "5",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "44",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "24",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "4",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "43",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "23",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "3",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "42",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "22",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "2",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "41",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "21",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "1",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "40",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "20",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getSettlement",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "18",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "17",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "16",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "15",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "14",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "13",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "12",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "11",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "10",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "9",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "8",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "7",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "6",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "5",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "4",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "3",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "2",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "1",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashType",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashType.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashTransaction",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashTransaction.0",
+  "STATEMENT_COLUMN": "CASH_TRANSACTION.CT_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "59",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashTransaction",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashTransaction.0",
+  "STATEMENT_COLUMN": "CASH_TRANSACTION.CT_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "39",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCashTransaction",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCashTransaction.0",
+  "STATEMENT_COLUMN": "CASH_TRANSACTION.CT_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeUpdate.getCTName",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeUpdate.getCTName.0",
+  "STATEMENT_COLUMN": "CASH_TRANSACTION.CT_T_ID",
+  "PROCEDURE_PARAMETER": "TradeUpdate.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeStatus.getTradeStatus",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeStatus.getTradeStatus.0",
+  "STATEMENT_COLUMN": "TRADE.T_CA_ID",
+  "PROCEDURE_PARAMETER": "TradeStatus.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeStatus.getName",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeStatus.getName.0",
+  "STATEMENT_COLUMN": "CUSTOMER_ACCOUNT.CA_ID",
+  "PROCEDURE_PARAMETER": "TradeStatus.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.updateTrade2",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeResult.updateTrade2.4",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeResult.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.updateTrade2",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeResult.updateTrade2.3",
+  "STATEMENT_COLUMN": "TRADE.T_TRADE_PRICE",
+  "PROCEDURE_PARAMETER": "TradeResult.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.updateTrade1",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeResult.updateTrade1.1",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeResult.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.insertTradeHistory",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeResult.insertTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeResult.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.insertSettlement",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeResult.insertSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeResult.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.insertHolding",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeResult.insertHolding.4",
+  "STATEMENT_COLUMN": "HOLDING.H_PRICE",
+  "PROCEDURE_PARAMETER": "TradeResult.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.insertHolding",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeResult.insertHolding.0",
+  "STATEMENT_COLUMN": "HOLDING.H_T_ID",
+  "PROCEDURE_PARAMETER": "TradeResult.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.insertHoldingHistory",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeResult.insertHoldingHistory.1",
+  "STATEMENT_COLUMN": "HOLDING_HISTORY.HH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeResult.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.insertHoldingHistory",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeResult.insertHoldingHistory.0",
+  "STATEMENT_COLUMN": "HOLDING_HISTORY.HH_H_T_ID",
+  "PROCEDURE_PARAMETER": "TradeResult.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.insertHoldingHistory",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeResult.insertHoldingHistory.1",
+  "STATEMENT_COLUMN": "HOLDING_HISTORY.HH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeResult.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.insertHoldingHistory",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeResult.insertHoldingHistory.1",
+  "STATEMENT_COLUMN": "HOLDING_HISTORY.HH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeResult.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.insertHoldingHistory",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeResult.insertHoldingHistory.1",
+  "STATEMENT_COLUMN": "HOLDING_HISTORY.HH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeResult.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.insertHoldingHistory",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeResult.insertHoldingHistory.1",
+  "STATEMENT_COLUMN": "HOLDING_HISTORY.HH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeResult.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.insertHoldingHistory",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeResult.insertHoldingHistory.1",
+  "STATEMENT_COLUMN": "HOLDING_HISTORY.HH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeResult.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.insertHoldingHistory",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeResult.insertHoldingHistory.1",
+  "STATEMENT_COLUMN": "HOLDING_HISTORY.HH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeResult.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.insertCashTransaction",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeResult.insertCashTransaction.1",
+  "STATEMENT_COLUMN": "CASH_TRANSACTION.CT_T_ID",
+  "PROCEDURE_PARAMETER": "TradeResult.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeResult.getTrade",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeResult.getTrade.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeResult.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeOrder.insertTrade",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeOrder.insertTrade.8",
+  "STATEMENT_COLUMN": "TRADE.T_CA_ID",
+  "PROCEDURE_PARAMETER": "TradeOrder.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeOrder.insertTrade",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeOrder.insertTrade.7",
+  "STATEMENT_COLUMN": "TRADE.T_BID_PRICE",
+  "PROCEDURE_PARAMETER": "TradeOrder.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeOrder.insertTrade",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeOrder.insertTrade.6",
+  "STATEMENT_COLUMN": "TRADE.T_QTY",
+  "PROCEDURE_PARAMETER": "TradeOrder.4",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeOrder.insertTrade",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeOrder.insertTrade.4",
+  "STATEMENT_COLUMN": "TRADE.T_IS_CASH",
+  "PROCEDURE_PARAMETER": "TradeOrder.5",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeOrder.insertTradeRequest",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeOrder.insertTradeRequest.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "TradeOrder.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeOrder.insertTradeRequest",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeOrder.insertTradeRequest.3",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_QTY",
+  "PROCEDURE_PARAMETER": "TradeOrder.4",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeOrder.getHoldingSummmary",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeOrder.getHoldingSummmary.0",
+  "STATEMENT_COLUMN": "HOLDING_SUMMARY.HS_CA_ID",
+  "PROCEDURE_PARAMETER": "TradeOrder.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeOrder.getHoldingDesc",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeOrder.getHoldingDesc.0",
+  "STATEMENT_COLUMN": "HOLDING.H_CA_ID",
+  "PROCEDURE_PARAMETER": "TradeOrder.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeOrder.getHoldingAssets",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeOrder.getHoldingAssets.0",
+  "STATEMENT_COLUMN": "HOLDING_SUMMARY.HS_CA_ID",
+  "PROCEDURE_PARAMETER": "TradeOrder.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeOrder.getHoldingAsc",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeOrder.getHoldingAsc.0",
+  "STATEMENT_COLUMN": "HOLDING.H_CA_ID",
+  "PROCEDURE_PARAMETER": "TradeOrder.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeOrder.getCommissionRate",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeOrder.getCommissionRate.4",
+  "STATEMENT_COLUMN": "COMMISSION_RATE.CR_TO_QTY",
+  "PROCEDURE_PARAMETER": "TradeOrder.4",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeOrder.getCommissionRate",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeOrder.getCommissionRate.3",
+  "STATEMENT_COLUMN": "COMMISSION_RATE.CR_FROM_QTY",
+  "PROCEDURE_PARAMETER": "TradeOrder.4",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeOrder.getAccount2",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeOrder.getAccount2.0",
+  "STATEMENT_COLUMN": "CUSTOMER_ACCOUNT.CA_ID",
+  "PROCEDURE_PARAMETER": "TradeOrder.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeOrder.getAccount1",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeOrder.getAccount1.0",
+  "STATEMENT_COLUMN": "CUSTOMER_ACCOUNT.CA_ID",
+  "PROCEDURE_PARAMETER": "TradeOrder.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeOrder.getACL",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeOrder.getACL.0",
+  "STATEMENT_COLUMN": "ACCOUNT_PERMISSION.AP_CA_ID",
+  "PROCEDURE_PARAMETER": "TradeOrder.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame4",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame4.0",
+  "STATEMENT_COLUMN": "TRADE.T_CA_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame2",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame2.2",
+  "STATEMENT_COLUMN": "TRADE.T_DTS",
+  "PROCEDURE_PARAMETER": "TradeLookup.6",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame2",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame2.2",
+  "STATEMENT_COLUMN": "TRADE.T_DTS",
+  "PROCEDURE_PARAMETER": "TradeLookup.5",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame2",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame2.0",
+  "STATEMENT_COLUMN": "TRADE.T_CA_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "18",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "17",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "16",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "15",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "14",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "13",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "12",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "11",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "10",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "9",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "8",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "7",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "6",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "5",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "4",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "3",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "2",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "1",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTrade_frame1",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeLookup.getTrade_frame1.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "18",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "17",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "16",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "15",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "14",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "13",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "12",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "11",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "10",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "9",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "8",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "7",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "6",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "5",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "4",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "3",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "2",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "1",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getTradeHistory",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeLookup.getTradeHistory.0",
+  "STATEMENT_COLUMN": "TRADE_HISTORY.TH_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "18",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "17",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "16",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "15",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "14",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "13",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "12",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "11",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "10",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "9",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "8",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "7",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "6",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "5",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "4",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "3",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "2",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "1",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getSettlement",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeLookup.getSettlement.0",
+  "STATEMENT_COLUMN": "SETTLEMENT.SE_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeLookup.getCash",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "TradeLookup.getCash.0",
+  "STATEMENT_COLUMN": "CASH_TRANSACTION.CT_T_ID",
+  "PROCEDURE_PARAMETER": "TradeLookup.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "TradeCleanup.selectTrade",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "TradeCleanup.selectTrade.0",
+  "STATEMENT_COLUMN": "TRADE.T_ID",
+  "PROCEDURE_PARAMETER": "TradeCleanup.3",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "SecurityDetail.getInfo4",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "SecurityDetail.getInfo4.1",
+  "STATEMENT_COLUMN": "DAILY_MARKET.DM_DATE",
+  "PROCEDURE_PARAMETER": "SecurityDetail.2",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "18",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "18",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "17",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "17",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "16",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "16",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "15",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "15",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "14",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "14",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "13",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "13",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "12",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "12",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "11",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "11",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "10",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "10",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "9",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "9",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "8",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "8",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "7",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "7",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "6",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "6",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "5",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "5",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "4",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "4",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "3",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "3",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "2",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "2",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "1",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "1",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.1",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_VOL",
+  "PROCEDURE_PARAMETER": "MarketFeed.3",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.updateLastTrade",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "MarketFeed.updateLastTrade.0",
+  "STATEMENT_COLUMN": "LAST_TRADE.LT_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "19",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "19",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "18",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "18",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "18",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "18",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "17",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "17",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "17",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "17",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "16",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "16",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "16",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "16",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "15",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "15",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "15",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "15",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "14",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "14",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "14",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "14",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "13",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "13",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "13",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "13",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "12",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "12",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "12",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "12",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "11",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "11",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "11",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "11",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "10",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "10",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "10",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "10",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "9",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "9",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "9",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "9",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "8",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "8",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "8",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "8",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "7",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "7",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "7",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "7",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "6",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "6",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "6",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "6",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "5",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "5",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "5",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "5",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "4",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "4",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "4",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "4",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "3",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "3",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "3",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "3",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "2",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "2",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "2",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "2",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "1",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "1",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "1",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "1",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.6",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.4",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "MarketFeed.getRequestList",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "MarketFeed.getRequestList.2",
+  "STATEMENT_COLUMN": "TRADE_REQUEST.TR_BID_PRICE",
+  "PROCEDURE_PARAMETER": "MarketFeed.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "DataMaintenance.updateFinancial",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "DataMaintenance.updateFinancial.1",
+  "STATEMENT_COLUMN": "FINANCIAL.FI_CO_ID",
+  "PROCEDURE_PARAMETER": "DataMaintenance.2",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "DataMaintenance.updateDailyMarket",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "DataMaintenance.updateDailyMarket.0",
+  "STATEMENT_COLUMN": "DAILY_MARKET.DM_VOL",
+  "PROCEDURE_PARAMETER": "DataMaintenance.7",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "DataMaintenance.updateCustomer",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "DataMaintenance.updateCustomer.1",
+  "STATEMENT_COLUMN": "CUSTOMER.C_ID",
+  "PROCEDURE_PARAMETER": "DataMaintenance.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "DataMaintenance.updateCustomerTaxrate",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "DataMaintenance.updateCustomerTaxrate.1",
+  "STATEMENT_COLUMN": "CUSTOMER_TAXRATE.CX_C_ID",
+  "PROCEDURE_PARAMETER": "DataMaintenance.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "DataMaintenance.updateCompany",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "DataMaintenance.updateCompany.1",
+  "STATEMENT_COLUMN": "COMPANY.CO_ID",
+  "PROCEDURE_PARAMETER": "DataMaintenance.2",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "DataMaintenance.updateAccountPermission",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "DataMaintenance.updateAccountPermission.1",
+  "STATEMENT_COLUMN": "ACCOUNT_PERMISSION.AP_CA_ID",
+  "PROCEDURE_PARAMETER": "DataMaintenance.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "DataMaintenance.selectFinancial",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "DataMaintenance.selectFinancial.0",
+  "STATEMENT_COLUMN": "FINANCIAL.FI_CO_ID",
+  "PROCEDURE_PARAMETER": "DataMaintenance.2",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "DataMaintenance.selectCustomer",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "DataMaintenance.selectCustomer.0",
+  "STATEMENT_COLUMN": "CUSTOMER.C_ID",
+  "PROCEDURE_PARAMETER": "DataMaintenance.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "DataMaintenance.selectCustomerTaxrate",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "DataMaintenance.selectCustomerTaxrate.0",
+  "STATEMENT_COLUMN": "CUSTOMER_TAXRATE.CX_C_ID",
+  "PROCEDURE_PARAMETER": "DataMaintenance.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "DataMaintenance.selectCustomerAddress",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "DataMaintenance.selectCustomerAddress.0",
+  "STATEMENT_COLUMN": "CUSTOMER.C_ID",
+  "PROCEDURE_PARAMETER": "DataMaintenance.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "DataMaintenance.selectCompany",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "DataMaintenance.selectCompany.0",
+  "STATEMENT_COLUMN": "COMPANY.CO_ID",
+  "PROCEDURE_PARAMETER": "DataMaintenance.2",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "DataMaintenance.selectCompanyAddress",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "DataMaintenance.selectCompanyAddress.0",
+  "STATEMENT_COLUMN": "COMPANY.CO_ID",
+  "PROCEDURE_PARAMETER": "DataMaintenance.2",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "DataMaintenance.selectAccountPermission",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "DataMaintenance.selectAccountPermission.0",
+  "STATEMENT_COLUMN": "ACCOUNT_PERMISSION.AP_CA_ID",
+  "PROCEDURE_PARAMETER": "DataMaintenance.0",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ },
+ {
+  "STATEMENT": "CustomerPosition.getCustomer",
+  "STATEMENT_INDEX": "0",
+  "STATEMENT_PARAMETER": "CustomerPosition.getCustomer.0",
+  "STATEMENT_COLUMN": "CUSTOMER.C_ID",
+  "PROCEDURE_PARAMETER": "CustomerPosition.1",
+  "PROCEDURE_PARAMETER_INDEX": "0",
+  "COEFFICIENT": "1.0"
+ }
+]}
